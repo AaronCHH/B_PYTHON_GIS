@@ -1,0 +1,11 @@
+
+Summary of D:\BOOKS\GISen\_PYTHON\PythonForArcGIS\SF_PFA\ch06\data
+-------------------------------------
+4 TextFiles
+50 Files
+1 TableViews
+18 ShapeFiles
+1 Workspaces
+1 Folders
+1 DbaseTables
+3 RasterDatasets

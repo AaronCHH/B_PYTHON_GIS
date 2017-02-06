@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20140314</CreaDate><CreaTime>16055400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Data Management Tools.tbx\CreateRandomPoints" Date="20140314" Time="160554">CreateRandomPoints C:\gispy\data\ch23\smallDir data.shp # CT_national_trailsOut 100 "0 Feet" POINT 0</Process></lineage></DataProperties></Esri></metadata>

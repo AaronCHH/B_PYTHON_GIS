@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20140624</CreaDate><CreaTime>16212900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Conversion Tools.tbx\ASCIIToRaster" Date="20140624" Time="162129">ASCIIToRaster C:/gispy/data/ch22/ASCIIout.txt C:/gispy/data/ch22/outputDir\out0 INTEGER</Process></lineage></DataProperties></Esri></metadata>

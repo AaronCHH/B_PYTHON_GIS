@@ -1,0 +1,2 @@
+201406241621   0     0     0lgtateos C:\gispy\data\ch22\outputDir\out0 = ASCIIGRID( C:/gispy/data/ch22/ASCIIout.txt, INT)
+201406241621   0     0     0lgtateos C:\gispy\data\ch22\outputDir\out1 = ASCIIGRID( C:/gispy/data/ch22/precip.txt, INT)

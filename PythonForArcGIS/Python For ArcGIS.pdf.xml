@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Preface" Page="6" Open="0" />
+  <Item ID="2" Name="Acknowledgements" Page="8" Open="0" />
+  <Item ID="3" Name="Contents" Page="10" Open="0" />
+  <Item ID="4" Name="Chapter 1: Introduction" Page="18" Open="0">
+    <Item ID="5" Name="1.1 Python and GIS" Page="19" Open="0" />
+    <Item ID="6" Name="1.2 Sample Data and Scripts" Page="20" Open="0" />
+    <Item ID="7" Name="1.3 GIS Data Formats" Page="21" Open="0">
+      <Item ID="8" Name="1.3.1 GRID Raster" Page="21" Open="0" />
+      <Item ID="9" Name="1.3.2 Shapefile" Page="22" Open="0" />
+      <Item ID="10" Name="1.3.3 dBASE Files" Page="22" Open="0" />
+      <Item ID="11" Name="1.3.4 Layer Files" Page="23" Open="0" />
+      <Item ID="12" Name="1.3.5 Geodatabase" Page="23" Open="0" />
+    </Item>
+    <Item ID="13" Name="1.4 An Introductory Example" Page="24" Open="0" />
+    <Item ID="14" Name="1.5 Organization of This Book" Page="27" Open="0" />
+    <Item ID="15" Name="1.6 Key Terms" Page="28" Open="0" />
+  </Item>
+  <Item ID="16" Name="Chapter 2: Beginning Python" Page="29" Open="0">
+    <Item ID="17" Name="2.1 Where to Write Code" Page="29" Open="0" />
+    <Item ID="18" Name="2.2 How to Run Code in PythonWin and PyScripter" Page="31" Open="0" />
+    <Item ID="19" Name="2.3 How to Pass Input to a Script" Page="36" Open="0" />
+    <Item ID="20" Name="2.4 Python Components" Page="37" Open="0">
+      <Item ID="21" Name="2.4.1 Comments" Page="39" Open="0" />
+      <Item ID="22" Name="2.4.2 Keywords" Page="39" Open="0" />
+      <Item ID="23" Name="2.4.3 Indentation" Page="40" Open="0" />
+      <Item ID="24" Name="2.4.4 Built-in Functions" Page="40" Open="0" />
+      <Item ID="25" Name="2.4.5 Variables, Assignment Statements, and Dynamic Typing" Page="42" Open="0" />
+      <Item ID="26" Name="2.4.6 Variables Names and Tracebacks" Page="44" Open="0" />
+      <Item ID="27" Name="2.4.7 Built-in Constants and Exceptions" Page="46" Open="0" />
+      <Item ID="28" Name="2.4.8 Standard (Built-in) Modules" Page="47" Open="0" />
+    </Item>
+    <Item ID="29" Name="2.5 Key Terms" Page="48" Open="0" />
+    <Item ID="30" Name="2.6 Exercises" Page="49" Open="0" />
+  </Item>
+  <Item ID="31" Name="Chapter 3: Basic Data Types: Numbers and Strings" Page="52" Open="0">
+    <Item ID="32" Name="3.1 Numbers" Page="52" Open="0" />
+    <Item ID="33" Name="3.2 What Is a String?" Page="53" Open="0" />
+    <Item ID="34" Name="3.3 String Operations" Page="55" Open="0">
+      <Item ID="35" Name="3.3.1 Find the Length of Strings" Page="55" Open="0" />
+      <Item ID="36" Name="3.3.2 Indexing into Strings" Page="56" Open="0" />
+      <Item ID="37" Name="3.3.3 Slice Strings" Page="57" Open="0" />
+      <Item ID="38" Name="3.3.4 Concatenate Strings" Page="58" Open="0" />
+      <Item ID="39" Name="3.3.5 Check for Substring Membership" Page="59" Open="0" />
+    </Item>
+    <Item ID="40" Name="3.4 More Things with Strings (a.k.a. String Methods)" Page="60" Open="0" />
+    <Item ID="41" Name="3.5 File Paths and Raw Strings" Page="64" Open="0" />
+    <Item ID="42" Name="3.6 Unicode Strings" Page="66" Open="0" />
+    <Item ID="43" Name="3.7 Printing Strings and Numbers" Page="67" Open="0" />
+    <Item ID="44" Name="3.8 Key Terms" Page="69" Open="0" />
+    <Item ID="45" Name="3.9 Exercises" Page="69" Open="0" />
+  </Item>
+  <Item ID="46" Name="Chapter 4: Basic Data Types: Lists and Tuples" Page="74" Open="0">
+    <Item ID="47" Name="4.1 Lists" Page="74" Open="0">
+      <Item ID="48" Name="4.1.1 Sequence Operations on Lists" Page="75" Open="0" />
+      <Item ID="49" Name="4.1.2 List Methods" Page="76" Open="0" />
+      <Item ID="50" Name="4.1.3 The Built-in range Function" Page="77" Open="0" />
+      <Item ID="51" Name="4.1.4 Copying a List" Page="77" Open="0" />
+    </Item>
+    <Item ID="52" Name="4.2 Tuples" Page="79" Open="0" />
+    <Item ID="53" Name="4.3 Syntax Check and Tracebacks" Page="80" Open="0" />
+    <Item ID="54" Name="4.4 Key Terms" Page="84" Open="0" />
+    <Item ID="55" Name="4.5 Exercises" Page="85" Open="0" />
+  </Item>
+  <Item ID="56" Name="Chapter 5: ArcGIS and Python" Page="91" Open="0">
+    <Item ID="57" Name="5.1 ArcToolbox" Page="91" Open="0" />
+    <Item ID="58" Name="5.2 ArcGIS Python Resources" Page="93" Open="0" />
+    <Item ID="59" Name="5.3 Exporting Models" Page="95" Open="0" />
+    <Item ID="60" Name="5.4 Working with GIS Data" Page="97" Open="0" />
+    <Item ID="61" Name="5.5 ArcGIS + Python = arcpy" Page="98" Open="0" />
+    <Item ID="62" Name="5.6 arcpy Functions" Page="101" Open="0" />
+    <Item ID="63" Name="5.7 Environment Settings" Page="103" Open="0" />
+    <Item ID="64" Name="5.8 Key Terms" Page="106" Open="0" />
+    <Item ID="65" Name="5.9 Exercises" Page="106" Open="0" />
+  </Item>
+  <Item ID="66" Name="Chapter 6: Calling Tools with Arcpy" Page="109" Open="0">
+    <Item ID="67" Name="6.1 Calling Tools" Page="109" Open="0" />
+    <Item ID="68" Name="6.2 Help Resources" Page="111" Open="0">
+      <Item ID="69" Name="6.2.1 Tool Help" Page="111" Open="0" />
+      <Item ID="70" Name="6.2.2 Code Snippets" Page="112" Open="0" />
+    </Item>
+    <Item ID="71" Name="6.3 Tool Parameters" Page="113" Open="0">
+      <Item ID="72" Name="6.3.1 Linear Units" Page="113" Open="0" />
+      <Item ID="73" Name="6.3.2 Python Expressions as Inputs" Page="114" Open="0" />
+      <Item ID="74" Name="6.3.3 Multivalue Inputs" Page="115" Open="0" />
+      <Item ID="75" Name="6.3.4 Optional Parameters" Page="116" Open="0" />
+    </Item>
+    <Item ID="76" Name="6.4 Return Values and Result Objects" Page="117" Open="0" />
+    <Item ID="77" Name="6.5 Spatial Analyst Toolbox" Page="121" Open="0">
+      <Item ID="78" Name="6.5.1 Calling Spatial Analyst tools" Page="121" Open="0" />
+      <Item ID="79" Name="6.5.2 Importing spatial analyst" Page="123" Open="0" />
+      <Item ID="80" Name="6.5.3 Raster Calculator" Page="123" Open="0" />
+    </Item>
+    <Item ID="81" Name="6.6 Temporary Feature Layers" Page="125" Open="0" />
+    <Item ID="82" Name="6.7 Using Variables for Multiple Tool Calls" Page="125" Open="0" />
+    <Item ID="83" Name="6.8 Calling Custom Tools" Page="128" Open="0" />
+    <Item ID="84" Name="6.9 A Word About Old Scripts" Page="129" Open="0" />
+    <Item ID="85" Name="6.10 Discussion" Page="129" Open="0" />
+    <Item ID="86" Name="6.11 Key Terms" Page="130" Open="0" />
+    <Item ID="87" Name="6.12 Exercises" Page="130" Open="0" />
+  </Item>
+  <Item ID="88" Name="Chapter 7: Getting User Input" Page="132" Open="0">
+    <Item ID="89" Name="7.1 Hard-coding versus Soft-coding" Page="132" Open="0" />
+    <Item ID="90" Name="7.2 Using GetParameterAsText" Page="133" Open="0" />
+    <Item ID="91" Name="7.3 Using sys.argv" Page="134" Open="0" />
+    <Item ID="92" Name="7.4 Missing Arguments" Page="135" Open="0" />
+    <Item ID="93" Name="7.5 Argument Spacing" Page="136" Open="0" />
+    <Item ID="94" Name="7.6 Handling File Names and Paths with os Module Functions" Page="138" Open="0">
+      <Item ID="95" Name="7.6.1 Getting the Script Path" Page="141" Open="0" />
+    </Item>
+    <Item ID="96" Name="7.7 Key Terms" Page="142" Open="0" />
+    <Item ID="97" Name="7.8 Exercises" Page="142" Open="0" />
+  </Item>
+  <Item ID="98" Name="Chapter 8: Controlling Flow" Page="146" Open="0">
+    <Item ID="99" Name="8.1 Outlining Workflow" Page="146" Open="0" />
+    <Item ID="100" Name="8.2 Key Terms" Page="152" Open="0" />
+    <Item ID="101" Name="8.3 Exercises" Page="152" Open="0" />
+  </Item>
+  <Item ID="102" Name="Chapter 9: Decision-Making and Describing Data" Page="154" Open="0">
+    <Item ID="103" Name="9.1 Conditional Expressions" Page="158" Open="0">
+      <Item ID="104" Name="9.1.1 Comparison Operators" Page="159" Open="0" />
+      <Item ID="105" Name="9.1.2 Equality vs. Assignment" Page="161" Open="0" />
+      <Item ID="106" Name="9.1.3 Logical Operators" Page="161" Open="0" />
+      <Item ID="107" Name="9.1.4 Membership Operators" Page="162" Open="0" />
+    </Item>
+    <Item ID="108" Name="9.2 ArcGIS Tools That Make Selections" Page="163" Open="0">
+      <Item ID="109" Name="9.2.1 Select by Attributes and Temporary Feature Layers" Page="166" Open="0" />
+    </Item>
+    <Item ID="110" Name="9.3 Getting a Description of the Data" Page="167" Open="0">
+      <Item ID="111" Name="9.3.1 Describe Object Properties" Page="168" Open="0" />
+      <Item ID="112" Name="9.3.2 Lists of Properties" Page="169" Open="0" />
+      <Item ID="113" Name="9.3.3 Using Specialized Properties" Page="169" Open="0" />
+      <Item ID="114" Name="9.3.4 Compound vs. Nested Conditions" Page="171" Open="0" />
+      <Item ID="115" Name="9.3.5 Testing Conditions" Page="173" Open="0" />
+    </Item>
+    <Item ID="116" Name="9.4 Required and Optional Script Input" Page="174" Open="0" />
+    <Item ID="117" Name="9.5 Creating Output Directories" Page="178" Open="0" />
+    <Item ID="118" Name="9.6 Key Terms" Page="179" Open="0" />
+    <Item ID="119" Name="9.7 Exercises" Page="180" Open="0" />
+  </Item>
+  <Item ID="120" Name="Chapter 10: Repetition: Looping for Geoprocessing" Page="184" Open="0">
+    <Item ID="121" Name="10.1 Looping Syntax" Page="184" Open="0">
+      <Item ID="122" Name="10.1.1 WHILE-Loops" Page="185" Open="0" />
+      <Item ID="123" Name="10.1.2 FOR-Loops" Page="188" Open="0" />
+    </Item>
+    <Item ID="124" Name="10.2 Nested Code Blocks" Page="192" Open="0" />
+    <Item ID="125" Name="10.3 Directory Inventory" Page="193" Open="0" />
+    <Item ID="126" Name="10.4 Indentation and the TabNanny" Page="196" Open="0" />
+    <Item ID="127" Name="10.5 Key Terms" Page="197" Open="0" />
+    <Item ID="128" Name="10.6 Exercises" Page="197" Open="0" />
+  </Item>
+  <Item ID="129" Name="Chapter 11: Batch Geoprocessing" Page="200" Open="0">
+    <Item ID="130" Name="11.1 List GIS Data" Page="200" Open="0" />
+    <Item ID="131" Name="11.2 Specify Data Name and Type" Page="203" Open="0" />
+    <Item ID="132" Name="11.3 List Fields" Page="207" Open="0" />
+    <Item ID="133" Name="11.4 Administrative Lists" Page="209" Open="0" />
+    <Item ID="134" Name="11.5 Batch Geoprocess Lists of Data" Page="210" Open="0" />
+    <Item ID="135" Name="11.6 Debug: Step Through Code" Page="213" Open="0" />
+    <Item ID="136" Name="11.7 Key Terms" Page="216" Open="0" />
+    <Item ID="137" Name="11.8 Exercises" Page="217" Open="0" />
+  </Item>
+  <Item ID="138" Name="Chapter 12: Additional Looping Functions" Page="222" Open="0">
+    <Item ID="139" Name="12.1 List Comprehension" Page="222" Open="0" />
+    <Item ID="140" Name="12.2 The Built-in enumerate Function" Page="224" Open="0" />
+    <Item ID="141" Name="12.3 The Built-in zip Function" Page="226" Open="0" />
+    <Item ID="142" Name="12.4 Walking Through Subdirectories" Page="227" Open="0" />
+    <Item ID="143" Name="12.5 Key Terms" Page="232" Open="0" />
+    <Item ID="144" Name="12.6 Exercises" Page="233" Open="0" />
+  </Item>
+  <Item ID="145" Name="Chapter 13: Debugging" Page="235" Open="0">
+    <Item ID="146" Name="13.1 Syntax Errors" Page="236" Open="0" />
+    <Item ID="147" Name="13.2 Exceptions" Page="236" Open="0" />
+    <Item ID="148" Name="13.3 Logic Errors" Page="238" Open="0" />
+    <Item ID="149" Name="13.4 PythonWin Debugging Toolbar" Page="241" Open="0">
+      <Item ID="150" Name="13.4.1 Using Breakpoints" Page="242" Open="0" />
+    </Item>
+    <Item ID="151" Name="13.5 Running in Debug Mode" Page="246" Open="0" />
+    <Item ID="152" Name="13.6 PyScripter Debugging Toolbar" Page="247" Open="0" />
+    <Item ID="153" Name="13.7 Debugging Tips" Page="249" Open="0" />
+    <Item ID="154" Name="13.8 Key Terms" Page="249" Open="0" />
+    <Item ID="155" Name="13.9 Exercises" Page="249" Open="0" />
+  </Item>
+  <Item ID="156" Name="Chapter 14: Error Handling" Page="252" Open="0">
+    <Item ID="157" Name="14.1 try/except Structures" Page="254" Open="0">
+      <Item ID="158" Name="14.1.1 Using Named Exceptions" Page="255" Open="0" />
+      <Item ID="159" Name="14.1.2 Multiple except Blocks" Page="256" Open="0" />
+      <Item ID="160" Name="14.1.3 Error Handling Gotcha" Page="258" Open="0" />
+    </Item>
+    <Item ID="161" Name="14.2 Geoprocessing and Error Handling" Page="259" Open="0">
+      <Item ID="162" Name="14.2.1 Getting Geoprocessing Messages" Page="260" Open="0" />
+      <Item ID="163" Name="14.2.2 The arcpy Named Exception" Page="262" Open="0" />
+    </Item>
+    <Item ID="164" Name="14.3 Catching Exceptions in Loops" Page="263" Open="0" />
+    <Item ID="165" Name="14.4 Discussion" Page="266" Open="0" />
+    <Item ID="166" Name="14.5 Key Terms" Page="267" Open="0" />
+    <Item ID="167" Name="14.6 Exercises" Page="268" Open="0" />
+  </Item>
+  <Item ID="168" Name="Chapter 15: User-Defined Functions" Page="271" Open="0">
+    <Item ID="169" Name="15.1 A Word About Function Words" Page="271" Open="0">
+      <Item ID="170" Name="15.1.1 How It Works" Page="273" Open="0" />
+      <Item ID="171" Name="15.1.2 The Docstring" Page="275" Open="0" />
+    </Item>
+    <Item ID="172" Name="15.2 Custom Functions with Arguments" Page="276" Open="0">
+      <Item ID="173" Name="15.2.1 Script Arguments vs. Functions Arguments" Page="278" Open="0" />
+      <Item ID="174" Name="15.2.2 Optional Arguments" Page="280" Open="0" />
+    </Item>
+    <Item ID="175" Name="15.3 Returning Values" Page="281" Open="0">
+      <Item ID="176" Name="15.3.1 A Common Mistake: Where Did the None Come from?" Page="284" Open="0" />
+      <Item ID="177" Name="15.3.2 Returning Multiple Values" Page="286" Open="0" />
+    </Item>
+    <Item ID="178" Name="15.4 When to Write Functions" Page="287" Open="0">
+      <Item ID="179" Name="15.4.1 Where to Define Functions" Page="289" Open="0" />
+    </Item>
+    <Item ID="180" Name="15.5 Variables Inside and Outside of Functions" Page="290" Open="0">
+      <Item ID="181" Name="15.5.1 Mutable Arguments Can Change" Page="290" Open="0" />
+      <Item ID="182" Name="15.5.2 Pass in Outside Variables" Page="292" Open="0" />
+    </Item>
+    <Item ID="183" Name="15.6 Key Terms" Page="293" Open="0" />
+    <Item ID="184" Name="15.7 Exercises" Page="293" Open="0" />
+  </Item>
+  <Item ID="185" Name="Chapter 16: User-Defined Modules" Page="300" Open="0">
+    <Item ID="186" Name="16.1 Importing User-Defined Modules" Page="300" Open="0" />
+    <Item ID="187" Name="16.2 Using Functions in Another Module" Page="305" Open="0" />
+    <Item ID="188" Name="16.3 Modifying User-Defined Modules (Reload!)" Page="307" Open="0" />
+    <Item ID="189" Name="16.4 Am I the Main Module? What’s My Name?" Page="308" Open="0" />
+    <Item ID="190" Name="16.5 Time Handling Example" Page="310" Open="0" />
+    <Item ID="191" Name="16.6 Summary" Page="313" Open="0" />
+    <Item ID="192" Name="16.7 Key Terms" Page="313" Open="0" />
+    <Item ID="193" Name="16.8 Exercises" Page="313" Open="0" />
+  </Item>
+  <Item ID="194" Name="Chapter 17: Reading and Writing with Cursors" Page="318" Open="0">
+    <Item ID="195" Name="17.1 Introduction to Cursors" Page="319" Open="0" />
+    <Item ID="196" Name="17.2 Reading Rows" Page="320" Open="0" />
+    <Item ID="197" Name="17.3 The Field Names Parameter" Page="322" Open="0" />
+    <Item ID="198" Name="17.4 The Shape Field and Geometry Tokens" Page="324" Open="0" />
+    <Item ID="199" Name="17.5 Looping with Cursors" Page="326" Open="0" />
+    <Item ID="200" Name="17.6 Locking" Page="326" Open="0">
+      <Item ID="201" Name="17.6.1 The del Statement" Page="328" Open="0" />
+      <Item ID="202" Name="17.6.2 The with Statement" Page="329" Open="0" />
+    </Item>
+    <Item ID="203" Name="17.7 Update Cursors" Page="330" Open="0" />
+    <Item ID="204" Name="17.8 Insert Cursors" Page="331" Open="0">
+      <Item ID="205" Name="17.8.1 Inserting Geometric Objects" Page="334" Open="0" />
+    </Item>
+    <Item ID="206" Name="17.9 Selecting Rows with SQL" Page="337" Open="0" />
+    <Item ID="207" Name="17.10 Key Terms" Page="339" Open="0" />
+    <Item ID="208" Name="17.11 Exercises" Page="340" Open="0" />
+  </Item>
+  <Item ID="209" Name="Chapter 18: Dictionaries" Page="343" Open="0">
+    <Item ID="210" Name="18.1 Dictionary Terms and Syntax" Page="344" Open="0">
+      <Item ID="211" Name="18.1.1 Access by Key, Not by Index" Page="345" Open="0" />
+      <Item ID="212" Name="18.1.2 Conditional Construct vs. Dictionary" Page="346" Open="0" />
+      <Item ID="213" Name="18.1.3 How to Modify: Update/Add/Delete Items" Page="347" Open="0" />
+    </Item>
+    <Item ID="214" Name="18.2 Dictionary Operations and Methods" Page="349" Open="0">
+      <Item ID="215" Name="18.2.1 Does It Have That Key?" Page="349" Open="0" />
+      <Item ID="216" Name="18.2.2 Listing Keys, Values, and Items" Page="350" Open="0" />
+      <Item ID="217" Name="18.2.3 Looping Through Dictionaries" Page="351" Open="0" />
+    </Item>
+    <Item ID="218" Name="18.3 Populating a Dictionary" Page="352" Open="0">
+      <Item ID="219" Name="18.3.1 Dictionaries and Cursors" Page="356" Open="0" />
+    </Item>
+    <Item ID="220" Name="18.4 Discussion" Page="358" Open="0" />
+    <Item ID="221" Name="18.5 Key Terms" Page="358" Open="0" />
+    <Item ID="222" Name="18.6 Exercises" Page="358" Open="0" />
+  </Item>
+  <Item ID="223" Name="Chapter 19: Reading and Writing Text Files" Page="364" Open="0">
+    <Item ID="224" Name="19.1 Working with file Objects" Page="364" Open="0">
+      <Item ID="225" Name="19.1.1 The WITH Statement" Page="366" Open="0" />
+      <Item ID="226" Name="19.1.2 Writing Text Files" Page="366" Open="0" />
+      <Item ID="227" Name="19.1.3 Safe File Reading" Page="369" Open="0" />
+      <Item ID="228" Name="19.1.4 The os Working Directory vs. the arcpy Workspace" Page="369" Open="0" />
+      <Item ID="229" Name="19.1.5 Reading Text Files" Page="371" Open="0" />
+    </Item>
+    <Item ID="230" Name="19.2 Parsing Line Contents" Page="372" Open="0">
+      <Item ID="231" Name="19.2.1 Parsing Field Names" Page="376" Open="0" />
+    </Item>
+    <Item ID="232" Name="19.3 Modifying Text Files" Page="377" Open="0">
+      <Item ID="233" Name="19.3.1 Pseudocode for Modifying Text Files" Page="379" Open="0" />
+      <Item ID="234" Name="19.3.2 Working with Tabular Text" Page="379" Open="0" />
+    </Item>
+    <Item ID="235" Name="19.4 Pickling" Page="383" Open="0" />
+    <Item ID="236" Name="19.5 Discussion" Page="385" Open="0" />
+    <Item ID="237" Name="19.6 Key Terms" Page="386" Open="0" />
+    <Item ID="238" Name="19.7 Exercises" Page="386" Open="0" />
+  </Item>
+  <Item ID="239" Name="Chapter 20: Working with HTML and KML" Page="392" Open="0">
+    <Item ID="240" Name="20.1 Working with HTML" Page="392" Open="0">
+      <Item ID="241" Name="20.1.1 Specifying Links" Page="394" Open="0" />
+      <Item ID="242" Name="20.1.2 Embedding Images" Page="395" Open="0" />
+      <Item ID="243" Name="20.1.3 HTML Lists" Page="396" Open="0" />
+      <Item ID="244" Name="20.1.4 HTML Tables" Page="396" Open="0" />
+      <Item ID="245" Name="20.1.5 Writing HTML with Python" Page="397" Open="0" />
+      <Item ID="246" Name="20.1.6 Parsing HTML with BeautifulSoup" Page="400" Open="0" />
+    </Item>
+    <Item ID="247" Name="20.2 Fetching and Uncompressing Data" Page="404" Open="0">
+      <Item ID="248" Name="20.2.1 Fetching HTML" Page="404" Open="0" />
+      <Item ID="249" Name="20.2.2 Fetching Compressed Data" Page="405" Open="0" />
+      <Item ID="250" Name="20.2.3 Expanding Compressed Data" Page="406" Open="0" />
+    </Item>
+    <Item ID="251" Name="20.3 Working with KML" Page="408" Open="0">
+      <Item ID="252" Name="20.3.1 The Structure of KML" Page="409" Open="0" />
+      <Item ID="253" Name="20.3.2 Parsing KML" Page="410" Open="0" />
+      <Item ID="254" Name="20.3.3 Converting KML to Shapefile" Page="412" Open="0" />
+    </Item>
+    <Item ID="255" Name="20.4 Discussion" Page="413" Open="0" />
+    <Item ID="256" Name="20.5 Key Terms" Page="414" Open="0" />
+    <Item ID="257" Name="20.6 Exercises" Page="414" Open="0" />
+  </Item>
+  <Item ID="258" Name="Chapter 21: Classes" Page="421" Open="0">
+    <Item ID="259" Name="21.1 Why Use OOP?" Page="422" Open="0" />
+    <Item ID="260" Name="21.2 Defining a Class" Page="424" Open="0" />
+    <Item ID="261" Name="21.3 Object Initialization and Self" Page="425" Open="0" />
+    <Item ID="262" Name="21.4 Using Class Objects" Page="426" Open="0" />
+    <Item ID="263" Name="21.5 Where to Define a Class" Page="431" Open="0" />
+    <Item ID="264" Name="21.6 Classes Within a Separate User-Defined Module" Page="433" Open="0" />
+    <Item ID="265" Name="21.7 Discussion" Page="434" Open="0" />
+    <Item ID="266" Name="21.8 Key Terms" Page="436" Open="0" />
+    <Item ID="267" Name="21.9 Exercises" Page="436" Open="0" />
+  </Item>
+  <Item ID="268" Name="Chapter 22: User Interfaces for File and Folder Selection" Page="441" Open="0">
+    <Item ID="269" Name="22.1 A Simple Interface with raw_input" Page="441" Open="0" />
+    <Item ID="270" Name="22.2 File Handling with tkFileDialog" Page="442" Open="0">
+      <Item ID="271" Name="22.2.1 Getting File and Directory Names" Page="443" Open="0" />
+      <Item ID="272" Name="22.2.2 Options" Page="445" Open="0">
+        <Item ID="273" Name="22.2.2.1 File-Handling Options" Page="446" Open="0">
+          <Item ID="274" Name="File Types" Page="446" Open="0" />
+          <Item ID="275" Name="Initial Directory" Page="447" Open="0" />
+          <Item ID="276" Name="Initial File" Page="447" Open="0" />
+          <Item ID="277" Name="Multiple Files" Page="447" Open="0" />
+          <Item ID="278" Name="Existing Directories" Page="448" Open="0" />
+        </Item>
+        <Item ID="279" Name="22.2.2.2 Close the Tk Window" Page="448" Open="0" />
+      </Item>
+      <Item ID="280" Name="22.2.3 Opening Files for Reading and Writing" Page="449" Open="0" />
+    </Item>
+    <Item ID="281" Name="22.3 Discussion" Page="450" Open="0" />
+    <Item ID="282" Name="22.4 Key Terms" Page="451" Open="0" />
+    <Item ID="283" Name="22.5 Exercises" Page="452" Open="0" />
+  </Item>
+  <Item ID="284" Name="Chapter 23: ArcGIS Python GUIs" Page="455" Open="0">
+    <Item ID="285" Name="23.1 Creating a Script Tool" Page="456" Open="0">
+      <Item ID="286" Name="23.1.1 Printing from a Script Tool" Page="458" Open="0" />
+      <Item ID="287" Name="23.1.2 Making a Script Tool Button" Page="460" Open="0" />
+      <Item ID="288" Name="23.1.3 Pointing to a Script" Page="462" Open="0" />
+    </Item>
+    <Item ID="289" Name="23.2 Creating a GUI" Page="464" Open="0">
+      <Item ID="290" Name="23.2.1 Using Parameter Data Types" Page="467" Open="0" />
+      <Item ID="291" Name="23.2.2 Using Parameter Properties" Page="470" Open="0">
+        <Item ID="292" Name="23.2.2.1 Type" Page="470" Open="0" />
+        <Item ID="293" Name="23.2.2.2 Direction" Page="471" Open="0" />
+        <Item ID="294" Name="23.2.2.3 Multivalue" Page="474" Open="0" />
+        <Item ID="295" Name="23.2.2.4 Default or Schema" Page="475" Open="0" />
+        <Item ID="296" Name="23.2.2.5 Environment" Page="478" Open="0" />
+        <Item ID="297" Name="23.2.2.6 Filter" Page="478" Open="0" />
+        <Item ID="298" Name="23.2.2.7 Obtained from" Page="481" Open="0" />
+        <Item ID="299" Name="23.2.2.8 Symbology" Page="483" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="300" Name="23.3 Showing Progress" Page="484" Open="0" />
+    <Item ID="301" Name="23.4 Validating Input" Page="487" Open="0">
+      <Item ID="302" Name="23.4.1 The ToolValidator Class" Page="489" Open="0">
+        <Item ID="303" Name="23.4.1.1 Initializing Parameter Objects" Page="490" Open="0" />
+        <Item ID="304" Name="23.4.1.2 An updateMessages Example" Page="491" Open="0" />
+        <Item ID="305" Name="23.4.1.3 An initializeParameters Example" Page="492" Open="0" />
+        <Item ID="306" Name="23.4.1.4 An updateParameters Example" Page="493" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="307" Name="23.5 Python Toolboxes" Page="495" Open="0">
+      <Item ID="308" Name="23.5.1 Setting Up Parameters (getParameterInfo)" Page="497" Open="0" />
+      <Item ID="309" Name="23.5.2 Checking for Licenses (isLicensed)" Page="498" Open="0" />
+      <Item ID="310" Name="23.5.3 Validation (updateParameters and updateMessages)" Page="499" Open="0" />
+      <Item ID="311" Name="23.5.4 Running the Code (execute)" Page="500" Open="0" />
+      <Item ID="312" Name="23.5.5 Comparing Tools" Page="502" Open="0" />
+    </Item>
+    <Item ID="313" Name="23.6 Discussion" Page="505" Open="0" />
+    <Item ID="314" Name="23.7 Key Terms" Page="506" Open="0" />
+    <Item ID="315" Name="23.8 Exercises" Page="506" Open="0" />
+  </Item>
+  <Item ID="316" Name="Chapter 24: Mapping Module" Page="511" Open="0">
+    <Item ID="317" Name="24.1 Map Documents" Page="513" Open="0">
+      <Item ID="318" Name="24.1.1 Map Name or'CURRENT' Map" Page="516" Open="0" />
+      <Item ID="319" Name="24.1.2 MapDocument Properties" Page="517" Open="0" />
+      <Item ID="320" Name="24.1.3 Saving Map Documents" Page="519" Open="0" />
+    </Item>
+    <Item ID="321" Name="24.2 Working with Data Frames" Page="520" Open="0" />
+    <Item ID="322" Name="24.3 Working with Layers" Page="521" Open="0">
+      <Item ID="323" Name="24.3.1 Moving, Removing, and Adding Layers" Page="523" Open="0" />
+      <Item ID="324" Name="24.3.2 Working with Symbology" Page="526" Open="0" />
+    </Item>
+    <Item ID="325" Name="24.4 Managing Layout Elements" Page="528" Open="0" />
+    <Item ID="326" Name="24.5 Discussion" Page="531" Open="0" />
+    <Item ID="327" Name="24.6 Key Terms" Page="531" Open="0" />
+    <Item ID="328" Name="24.7 Exercises" Page="532" Open="0" />
+  </Item>
+  <Item ID="329" Name="Index" Page="537" Open="0" />
+</BookmarkExport>

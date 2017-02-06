@@ -1,0 +1,5 @@
+Scripterwocky
+`Twas brillig, and the Python lists
+Did join and pop-le in the loop:
+All-splitsy were the string literals,
+And the boolean values were true.	 

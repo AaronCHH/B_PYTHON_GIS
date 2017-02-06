@@ -1,0 +1,5 @@
+1, 2.3,barren
+2, 5,some bare ground
+5, 4.2,stunted vegetation
+10,1.6,barren
+15,20,over-grown

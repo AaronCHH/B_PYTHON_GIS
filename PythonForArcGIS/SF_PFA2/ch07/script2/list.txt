@@ -1,0 +1,10 @@
+%load script/argSpacing.py
+%load script/boundingGeom.py
+%load script/boundingGeomV2.py
+%load script/boundingGeomV3.py
+%load script/buffer_clipv2.py
+%load script/compact.py
+%load script/copyFile.py
+%load script/list.txt
+%load script/near.py
+%load script/scriptPath.py

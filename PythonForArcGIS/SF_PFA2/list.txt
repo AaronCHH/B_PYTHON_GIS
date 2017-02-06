@@ -1,0 +1,24 @@
+ch01_Introduction.ipynb
+ch02_Beginning Python.ipynb
+ch03_Basic Data Types_Numbers and Strings.ipynb
+ch04_Basic Data Types_Lists and Tuples.ipynb
+ch05_ArcGIS and Python.ipynb
+ch06_Calling Tools with Arcpy.ipynb
+ch07_Getting User Input.ipynb
+ch08_Controlling Flow.ipynb
+ch09_Decision-Making and Describing Data.ipynb
+ch10_Repetition_Looping for Geoprocessing.ipynb
+ch11_Batch Geoprocessing.ipynb
+ch12_Additional Looping Functions.ipynb
+ch13_Debugging.ipynb
+ch14_Error Handling.ipynb
+ch15_User-Defined Functions.ipynb
+ch16_User-Defined Modules.ipynb
+ch17_Reading and Writing with Cursors.ipynb
+ch18_Dictionaries.ipynb
+ch19_Reading and Writing Text Files.ipynb
+ch20_Working with HTML and KML.ipynb
+ch21_Classes.ipynb
+ch22_User Interfaces for File and Folder Selection.ipynb
+ch23_ArcGIS Python GUIs.ipynb
+ch24_Mapping Module.ipynb

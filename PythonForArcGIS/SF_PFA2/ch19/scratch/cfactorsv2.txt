@@ -1,0 +1,6 @@
+C-factor,Label
+1,stable
+2,low deposition
+3,moderate deposition
+4,high deposition
+5,severe deposition

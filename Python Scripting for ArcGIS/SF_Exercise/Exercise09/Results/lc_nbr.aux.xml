@@ -1,0 +1,9 @@
+<PAMDataset>
+  <SRS>PROJCS[&quot;Projection_Name_Albers_Conical_Equal_Area_Units_meters_GeoTIFF&quot;,GEOGCS[&quot;GCS_North_American_1983&quot;,DATUM[&quot;D_North_American_1983&quot;,SPHEROID[&quot;GRS_1980&quot;,6378137.0,298.257222101]],PRIMEM[&quot;Greenwich&quot;,0.0],UNIT[&quot;Degree&quot;,0.0174532925199433]],PROJECTION[&quot;Albers&quot;],PARAMETER[&quot;false_easting&quot;,0.0],PARAMETER[&quot;false_northing&quot;,0.0],PARAMETER[&quot;central_meridian&quot;,-96.0],PARAMETER[&quot;standard_parallel_1&quot;,29.5],PARAMETER[&quot;standard_parallel_2&quot;,45.5],PARAMETER[&quot;latitude_of_origin&quot;,23.0],UNIT[&quot;Meter&quot;,1.0]]</SRS>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <NoDataValue>0.00000000000000E+000</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20160919</CreaDate><CreaTime>23015600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.1\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureToRaster" Date="20160919" Time="230156">FeatureToRaster counties COUNTY "D:\BOOKS\GISen\_PYTHON\Python Scripting for ArcGIS\SF_PSAG\Ch06\DATA\ras\counties" 2.26700973510742E-02</Process></lineage></DataProperties></Esri></metadata>

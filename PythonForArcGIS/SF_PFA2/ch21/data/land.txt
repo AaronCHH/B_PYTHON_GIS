@@ -1,0 +1,5 @@
+1, 145000,residential
+2, 400000,commercial
+5, 8000000,industrial
+10,900000,residential
+15,90005000,agricultural

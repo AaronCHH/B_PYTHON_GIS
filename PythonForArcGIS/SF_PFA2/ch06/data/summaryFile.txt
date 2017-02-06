@@ -1,0 +1,11 @@
+
+Summary of ch06/data
+-------------------------------------
+1 PrjFiles
+1 DbaseTables
+1 Workspaces
+28 ShapeFiles
+73 Files
+1 Folders
+6 TextFiles
+5 RasterDatasets

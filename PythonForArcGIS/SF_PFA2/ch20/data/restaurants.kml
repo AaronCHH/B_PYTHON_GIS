@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+    <Placemark>
+       <name>Bubba's Tofu Gumbo</name>
+       <description>Tofu Gumbo and Zydeco!<br />Score: 97</description>
+       <Point>
+          <coordinates>-90,30,0</coordinates>
+       </Point>
+    </Placemark>
+
+    <Placemark>
+       <name>Joe Bob's Good Cookin'</name>
+       <description>The best tree top grits n' greens restaurant south of the Mason-Dixon line.<br />Score: 94</description>
+       <Point>
+          <coordinates>-78,35,0</coordinates>
+       </Point>
+    </Placemark>
+    </Document>
+</kml>  
