@@ -1,0 +1,7 @@
+import arcpy
+from arcpy import env
+from arcpy.sa import *
+env.workspace = "C:/raster"
+myremap = RemapValue([["Barren", 1], ["Mixed Forest", 4], ["Coniferous Forest", 0], ["Cropland", 2], ["Grassland", 3], ["Shrub", 3], ["Water", 0]]) 
+outreclass = Reclassify("landuse"SVALUE",myremap)
+outreclass.save("C:/raster/lu_recl")

@@ -1,0 +1,11 @@
+Category,Description
+Fuzzy Membership,Defines the membership function for fuzzy logic analysis
+Horizontal Factor,Id entifi es the horizontal factor for the Path Di stance tool
+Kriging Models,Develops the model for creating surfaces with kriging
+Neig hborhood,Defin es the input neighborhood for a series of tools
+Overlay,Creates input tables for the Weighted Overlay and Weighted Sum tools
+Radius,Identifies a radius for the IDW and Kriging tools
+Remap,Defines various remap tables used in recl assification
+Time,Identifies the time interval to use in the solar radiation tools
+Topo Input,Defines the input to the Topo To Raster tool
+Vertical Factor,Identifies the vertical factor for the Path Distance tool
