@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map>
+
+<Map background-color="steelblue" srs="+proj=latlong +datum=WGS84">
+    <Style name="My Style">
+        <Rule>
+            <PolygonSymbolizer fill="ghostwhite"/>
+            <LineSymbolizer stroke="gray" stroke-width="0.1"/>
+        </Rule>
+    </Style>
+
+    <Layer name="world" srs="+proj=latlong +datum=WGS84">
+        <StyleName>My Style</StyleName>
+        <Datasource>
+            <Parameter name="type">shape</Parameter>
+            <Parameter name="file">TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp</Parameter>
+        </Datasource>
+    </Layer>
+</Map>

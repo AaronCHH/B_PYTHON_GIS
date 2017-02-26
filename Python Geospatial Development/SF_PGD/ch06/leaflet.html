@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Example Map</title>
+    <link rel="stylesheet"
+          href="http://cdn.leafletjs.com/leaflet-0.4.5/leaflet.css"/>
+    <!--[if lte IE 8]>
+    <link rel="stylesheet"
+          href="http://cdn.leafletjs.com/leaflet-0.4.5/leaflet.ie.css" />
+    <![endif]-->
+    <script src="http://cdn.leafletjs.com/leaflet-0.4.5/leaflet.js"></script>
+
+    <script type="text/javascript">
+        function onLoad() {
+          var map = L.map("map");
+          map.setView([-38.139, 176.244], 13);
+
+          var layer = L.tileLayer("http://tile.openstreetmap.org/{z}/{x}/{y}.png");
+          map.addLayer(layer);
+      }
+    </script>
+  </head>
+  <body onload="onLoad()">
+      <div id="map" style="width:800px; height:600px">
+      </div>
+  </body>
+</html>
+

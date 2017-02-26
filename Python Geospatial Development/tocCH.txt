@@ -1,0 +1,11 @@
+Chapter 1: Geospatial Development Using Python
+Chapter 2: GIS
+Chapter 3: Python Libraries for Geospatial Development
+Chapter 4: Sources of Geospatial Data
+Chapter 5: Working with
+Chapter 6: GIS in the Database
+Chapter 7: Working with Spatial Data
+Chapter 8: Using Python and
+Chapter 9: Putting It All Together – a Complete Mapping System
+Chapter 10: ShapeEditor – Implementing List View, Import, and Export
+Chapter 11: ShapeEditor – Selecting and Editing Features

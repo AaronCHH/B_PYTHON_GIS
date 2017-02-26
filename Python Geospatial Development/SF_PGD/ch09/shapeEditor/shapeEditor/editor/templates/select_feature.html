@@ -1,0 +1,91 @@
+<html>
+  <head>
+    <title>ShapeEditor</title>
+    <style type="text/css">
+      div#map {
+        width:  600px;
+        height: 400px;
+        border: 1px solid #ccc;
+      }
+    </style>
+    <script src="http://openlayers.org/api/OpenLayers.js">
+    </script>
+    <script type="text/javascript">
+      OpenLayers.Control.Click = OpenLayers.Class(
+        OpenLayers.Control, {
+          defaultHandlerOptions: {
+            'single'         : true,
+            'double'         : false,
+            'pixelTolerance' : 0,
+            'stopSingle'     : false,
+            'stopDouble'     : false
+          },
+
+          initialize: function(options) {
+            this.handlerOptions = OpenLayers.Util.extend(
+              {}, this.defaultHandlerOptions);
+            OpenLayers.Control.prototype.initialize.apply(
+              this, arguments);
+            this.handler = new OpenLayers.Handler.Click(
+              this, {'click' : this.onClick}, this.handlerOptions);
+          },
+
+          onClick: function(e) {
+            var coord = map.getLonLatFromViewPortPx(e.xy);
+            var request = OpenLayers.Request.GET({
+              url      : "{{ find_feature_url }}",
+              params   : {shapefile_id : {{ shapefile.id }},
+                          latitude     : coord.lat,
+                          longitude    : coord.lon},
+              callback : this.handleResponse
+            });
+          },
+
+          handleResponse: function(request) {
+            if (request.status != 200) {
+              alert("Server returned a "+request.status+" error");
+              return;
+            };
+            if (request.responseText != "") {
+              window.location.href = request.responseText;
+            };
+          }
+        }
+      );
+
+      function init() {
+        map = new OpenLayers.Map('map',
+                      {maxResolution: 0.703125,
+                       numZoomLevels: 11});
+        layer = new OpenLayers.Layer.TMS('TMS',
+                      "{{ tms_url }}",
+                      {serviceVersion: "1.0",
+                       layername: "{{ shapefile.id }}",
+                       type: "png"});
+        map.addLayer(layer);
+        map.zoomToMaxExtent();
+
+        var click = new OpenLayers.Control.Click();
+        map.addControl(click);
+        click.activate();
+      }
+    </script>
+  </head>
+  <body onload="init()">
+    <h1>Edit Shapefile</h1>
+    <b>Please choose a feature to edit</b>
+    <br/>
+    <div id="map" class="map"></div>
+    <br/>
+    <div style="margin-left:20px">
+      <button type="button"
+              onClick='window.location="{{ add_feature_url }}";'>
+        Add Feature
+      </button>
+      <button type="button"
+              onClick='window.location="/editor";'>
+        Cancel
+      </button>
+    </div>
+  </body>
+</html>

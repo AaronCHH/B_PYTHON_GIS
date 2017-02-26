@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Cover" Page="1" Open="0" />
+  <Item ID="2" Name="Copyright" Page="3" Open="0" />
+  <Item ID="3" Name="Credits" Page="4" Open="0" />
+  <Item ID="4" Name="About the Author" Page="5" Open="0" />
+  <Item ID="5" Name="About the Reviewers" Page="6" Open="0" />
+  <Item ID="6" Name="www.PacktPub.com" Page="8" Open="0" />
+  <Item ID="7" Name="Table of Contents" Page="10" Open="0" />
+  <Item ID="8" Name="Preface" Page="18" Open="0" />
+  <Item ID="9" Name="Chapter 1: Geospatial Development Using Python" Page="24" Open="0">
+    <Item ID="10" Name="Python" Page="24" Open="0" />
+    <Item ID="11" Name="Geospatial development" Page="26" Open="0" />
+    <Item ID="12" Name="Applications of geospatial development" Page="29" Open="0">
+      <Item ID="13" Name="Analyzing geospatial data" Page="29" Open="0" />
+      <Item ID="14" Name="Visualizing geospatial data" Page="31" Open="0" />
+      <Item ID="15" Name="Creating a geospatial mash-up" Page="33" Open="0" />
+    </Item>
+    <Item ID="16" Name="Recent developments" Page="34" Open="0" />
+    <Item ID="17" Name="Summary" Page="36" Open="0" />
+  </Item>
+  <Item ID="18" Name="Chapter 2: GIS" Page="38" Open="0">
+    <Item ID="19" Name="Core GIS concepts" Page="38" Open="0">
+      <Item ID="20" Name="Location" Page="39" Open="0" />
+      <Item ID="21" Name="Distance" Page="42" Open="0" />
+      <Item ID="22" Name="Units" Page="44" Open="0" />
+      <Item ID="23" Name="Projections" Page="46" Open="0">
+        <Item ID="24" Name="Cylindrical projections" Page="46" Open="0" />
+        <Item ID="25" Name="Conic projections" Page="48" Open="0" />
+        <Item ID="26" Name="Azimuthal projections" Page="49" Open="0" />
+        <Item ID="27" Name="The nature of map projections" Page="50" Open="0" />
+      </Item>
+      <Item ID="28" Name="Coordinate systems" Page="51" Open="0" />
+      <Item ID="29" Name="Datums" Page="53" Open="0" />
+      <Item ID="30" Name="Shapes" Page="54" Open="0" />
+    </Item>
+    <Item ID="31" Name="GIS data formats" Page="56" Open="0" />
+    <Item ID="32" Name="Working with GIS data manually" Page="58" Open="0" />
+    <Item ID="33" Name="Summary" Page="66" Open="0" />
+  </Item>
+  <Item ID="34" Name="Chapter 3: Python Libraries for Geospatial Development" Page="68" Open="0">
+    <Item ID="35" Name="Reading and writing geospatial data" Page="68" Open="0">
+      <Item ID="36" Name="GDAL/OGR" Page="69" Open="0">
+        <Item ID="37" Name="GDAL design" Page="69" Open="0" />
+        <Item ID="38" Name="GDAL example code" Page="72" Open="0" />
+        <Item ID="39" Name="OGR design" Page="73" Open="0" />
+        <Item ID="40" Name="OGR example code" Page="74" Open="0" />
+      </Item>
+      <Item ID="41" Name="Documentation" Page="75" Open="0" />
+      <Item ID="42" Name="Availability" Page="75" Open="0" />
+    </Item>
+    <Item ID="43" Name="Dealing with projections" Page="76" Open="0">
+      <Item ID="44" Name="pyproj" Page="76" Open="0" />
+      <Item ID="45" Name="Design" Page="77" Open="0">
+        <Item ID="46" Name="Proj" Page="77" Open="0" />
+        <Item ID="47" Name="Geod" Page="78" Open="0" />
+      </Item>
+      <Item ID="48" Name="Example code" Page="79" Open="0" />
+      <Item ID="49" Name="Documentation" Page="80" Open="0" />
+      <Item ID="50" Name="Availability" Page="81" Open="0" />
+    </Item>
+    <Item ID="51" Name="Analyzing and manipulating geospatial Data" Page="83" Open="0">
+      <Item ID="52" Name="Shapely" Page="83" Open="0" />
+      <Item ID="53" Name="Design" Page="83" Open="0" />
+      <Item ID="54" Name="Example code" Page="85" Open="0" />
+      <Item ID="55" Name="Documentation" Page="86" Open="0" />
+      <Item ID="56" Name="Availability" Page="86" Open="0" />
+    </Item>
+    <Item ID="57" Name="Visualizing geospatial data" Page="87" Open="0">
+      <Item ID="58" Name="Mapnik" Page="88" Open="0" />
+      <Item ID="59" Name="Design" Page="89" Open="0" />
+      <Item ID="60" Name="Example code" Page="91" Open="0" />
+      <Item ID="61" Name="Documentation" Page="93" Open="0" />
+      <Item ID="62" Name="Availability" Page="93" Open="0" />
+    </Item>
+    <Item ID="63" Name="Summary" Page="94" Open="0" />
+  </Item>
+  <Item ID="64" Name="Chapter 4: Sources of Geospatial Data" Page="96" Open="0">
+    <Item ID="65" Name="Sources of geospatial data in vector format" Page="97" Open="0">
+      <Item ID="66" Name="OpenStreetMap" Page="97" Open="0">
+        <Item ID="67" Name="Data Format" Page="98" Open="0" />
+        <Item ID="68" Name="Obtaining and using OpenStreetMap data" Page="99" Open="0" />
+      </Item>
+      <Item ID="69" Name="TIGER" Page="101" Open="0">
+        <Item ID="70" Name="Data format" Page="103" Open="0" />
+        <Item ID="71" Name="Obtaining and Using TIGER Data" Page="104" Open="0" />
+      </Item>
+      <Item ID="72" Name="Natural Earth" Page="105" Open="0">
+        <Item ID="73" Name="Data format" Page="106" Open="0" />
+        <Item ID="74" Name="Obtaining and using Natural Earth vector data" Page="106" Open="0" />
+      </Item>
+      <Item ID="75" Name="Global self-consistent, hierarchical, &#xA;high-resolution shoreline database (GSHHS)" Page="107" Open="0">
+        <Item ID="76" Name="Data format" Page="108" Open="0" />
+        <Item ID="77" Name="Obtaining the GSHHS database" Page="109" Open="0" />
+      </Item>
+      <Item ID="78" Name="World Borders Dataset" Page="109" Open="0">
+        <Item ID="79" Name="Data format" Page="110" Open="0" />
+        <Item ID="80" Name="Obtaining the World Borders Dataset" Page="110" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="81" Name="Sources of geospatial data in raster format" Page="110" Open="0">
+      <Item ID="82" Name="Landsat" Page="111" Open="0">
+        <Item ID="83" Name="Data format" Page="112" Open="0" />
+        <Item ID="84" Name="Obtaining Landsat imagery" Page="112" Open="0" />
+      </Item>
+      <Item ID="85" Name="Natural Earth" Page="115" Open="0">
+        <Item ID="86" Name="Data format" Page="116" Open="0" />
+        <Item ID="87" Name="Obtaining and using Natural Earth raster data" Page="116" Open="0" />
+      </Item>
+      <Item ID="88" Name="Global Land One-kilometer Base Elevation (GLOBE)" Page="117" Open="0">
+        <Item ID="89" Name="Data format" Page="117" Open="0" />
+        <Item ID="90" Name="Obtaining and using GLOBE data" Page="118" Open="0" />
+      </Item>
+      <Item ID="91" Name="National Elevation Dataset (NED)" Page="119" Open="0">
+        <Item ID="92" Name="Data format" Page="120" Open="0" />
+        <Item ID="93" Name="Obtaining and using NED data" Page="120" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="94" Name="Sources of other types of geospatial data" Page="122" Open="0">
+      <Item ID="95" Name="GEOnet Names Server" Page="123" Open="0">
+        <Item ID="96" Name="Data format" Page="124" Open="0" />
+        <Item ID="97" Name="Obtaining and using GEOnet Names Server data" Page="124" Open="0" />
+      </Item>
+      <Item ID="98" Name="Geographic Names Information System (GNIS)" Page="124" Open="0">
+        <Item ID="99" Name="Data format" Page="125" Open="0" />
+        <Item ID="100" Name="Obtaining and using GNIS Data" Page="126" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="101" Name="Choosing your geospatial data source" Page="126" Open="0" />
+    <Item ID="102" Name="Summary" Page="127" Open="0" />
+  </Item>
+  <Item ID="103" Name="Chapter 5: Working with Geospatial &#xD;Data in Python" Page="128" Open="0">
+    <Item ID="104" Name="Pre-requisites" Page="128" Open="0" />
+    <Item ID="105" Name="Reading and writing geospatial data" Page="129" Open="0">
+      <Item ID="106" Name="Task – calculate the bounding box for each country in the world" Page="129" Open="0" />
+      <Item ID="107" Name="Task – save the country bounding boxes into a shapefile" Page="131" Open="0" />
+      <Item ID="108" Name="Task – analyze height data using a digital elevation map" Page="136" Open="0" />
+    </Item>
+    <Item ID="109" Name="Changing datums and projections" Page="143" Open="0">
+      <Item ID="110" Name="Task – change projections to combine shapefiles using geographic and UTM coordinates" Page="144" Open="0" />
+      <Item ID="111" Name="Task – change the datums to allow older and newer TIGER data to be combined" Page="149" Open="0" />
+    </Item>
+    <Item ID="112" Name="Representing and storing geospatial data" Page="152" Open="0">
+      <Item ID="113" Name="Task – calculate the border between Thailand and Myanmar" Page="153" Open="0" />
+      <Item ID="114" Name="Task – save geometries into a text file" Page="157" Open="0" />
+    </Item>
+    <Item ID="115" Name="Performing geospatial calculations" Page="158" Open="0">
+      <Item ID="116" Name="Task – identify parks in or near urban areas" Page="158" Open="0" />
+    </Item>
+    <Item ID="117" Name="Converting and standardizing units of geometry and distance" Page="163" Open="0">
+      <Item ID="118" Name="Task – calculate the length of the Thai-Myanmar border" Page="164" Open="0" />
+      <Item ID="119" Name="Task – find a point 132.7 kilometers west of Soshone, California" Page="171" Open="0" />
+    </Item>
+    <Item ID="120" Name="Exercises" Page="173" Open="0" />
+    <Item ID="121" Name="Summary" Page="175" Open="0" />
+  </Item>
+  <Item ID="122" Name="Chapter 6: GIS in the Database" Page="176" Open="0">
+    <Item ID="123" Name="Spatially-enabled databases" Page="176" Open="0" />
+    <Item ID="124" Name="Spatial indexes" Page="177" Open="0" />
+    <Item ID="125" Name="Open source spatially-enabled databases" Page="180" Open="0">
+      <Item ID="126" Name="MySQL" Page="180" Open="0" />
+      <Item ID="127" Name="PostGIS" Page="185" Open="0">
+        <Item ID="128" Name="Installing and configuring PostGIS" Page="185" Open="0" />
+        <Item ID="129" Name="Using PostGIS" Page="187" Open="0" />
+        <Item ID="130" Name="Documentation" Page="189" Open="0" />
+        <Item ID="131" Name="Advanced PostGIS Features" Page="190" Open="0" />
+      </Item>
+      <Item ID="132" Name="SpatiaLite" Page="191" Open="0">
+        <Item ID="133" Name="Installing SpatiaLite" Page="191" Open="0" />
+        <Item ID="134" Name="Installing pysqlite" Page="192" Open="0" />
+        <Item ID="135" Name="Accessing SpatiaLite from Python" Page="192" Open="0" />
+        <Item ID="136" Name="Documentation" Page="193" Open="0" />
+        <Item ID="137" Name="Using SpatiaLite" Page="194" Open="0" />
+        <Item ID="138" Name="SpatiaLite capabilities" Page="195" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="139" Name="Commercial Spatially-Enabled Databases" Page="196" Open="0">
+      <Item ID="140" Name="Oracle" Page="197" Open="0" />
+      <Item ID="141" Name="MS SQL Server" Page="197" Open="0" />
+    </Item>
+    <Item ID="142" Name="Recommended best practices" Page="198" Open="0">
+      <Item ID="143" Name="Using the database to keep track of spatial references" Page="198" Open="0" />
+      <Item ID="144" Name="Using the appropriate spatial reference for your data" Page="200" Open="0">
+        <Item ID="145" Name="Option 1 – Using a database that supports geographies" Page="201" Open="0" />
+        <Item ID="146" Name="Option 2 – transform features as required" Page="202" Open="0" />
+        <Item ID="147" Name="Option 3 – transform features from the outset" Page="202" Open="0" />
+        <Item ID="148" Name="When to use unprojected coordinates" Page="202" Open="0" />
+      </Item>
+      <Item ID="149" Name="Avoiding on-the-fly transformations within a query" Page="203" Open="0" />
+      <Item ID="150" Name="Don't create geometries within a query" Page="204" Open="0">
+        <Item ID="151" Name="Using spatial indexes appropriately" Page="205" Open="0" />
+      </Item>
+      <Item ID="152" Name="Knowing the limits of your database's query optimizer" Page="206" Open="0">
+        <Item ID="153" Name="MySQL" Page="206" Open="0" />
+        <Item ID="154" Name="PostGIS" Page="208" Open="0" />
+        <Item ID="155" Name="SpatiaLite" Page="210" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="156" Name="Working with geospatial databases using python" Page="212" Open="0">
+      <Item ID="157" Name="Prerequisites" Page="212" Open="0" />
+      <Item ID="158" Name="Working with MySQL" Page="212" Open="0" />
+      <Item ID="159" Name="Working with PostGIS" Page="216" Open="0" />
+      <Item ID="160" Name="Working with SpatiaLite" Page="218" Open="0" />
+      <Item ID="161" Name="Comparing the databases" Page="221" Open="0" />
+    </Item>
+    <Item ID="162" Name="Summary" Page="222" Open="0" />
+  </Item>
+  <Item ID="163" Name="Chapter 7: Working with Spatial Data" Page="224" Open="0">
+    <Item ID="164" Name="About DISTAL" Page="224" Open="0" />
+    <Item ID="165" Name="Designing and building the database" Page="228" Open="0" />
+    <Item ID="166" Name="Downloading the data" Page="233" Open="0">
+      <Item ID="167" Name="World Borders Dataset" Page="233" Open="0" />
+      <Item ID="168" Name="GSHHS" Page="233" Open="0" />
+      <Item ID="169" Name="GNIS" Page="233" Open="0" />
+      <Item ID="170" Name="GEOnet Names Server" Page="234" Open="0" />
+    </Item>
+    <Item ID="171" Name="Importing the data" Page="234" Open="0">
+      <Item ID="172" Name="World Borders Dataset" Page="235" Open="0" />
+      <Item ID="173" Name="GSHHS" Page="237" Open="0" />
+      <Item ID="174" Name="US places' name data" Page="239" Open="0" />
+      <Item ID="175" Name="Worldwide places' name data" Page="244" Open="0" />
+    </Item>
+    <Item ID="176" Name="Implementing the DISTAL application" Page="246" Open="0">
+      <Item ID="177" Name="The shared &quot;database&quot; module" Page="249" Open="0" />
+      <Item ID="178" Name="The &quot;select country&quot; script" Page="250" Open="0" />
+      <Item ID="179" Name="The &quot;select area&quot; script" Page="253" Open="0">
+        <Item ID="180" Name="Calculating the bounding box" Page="258" Open="0" />
+        <Item ID="181" Name="Calculating the map's dimensions" Page="259" Open="0" />
+        <Item ID="182" Name="Setting up the data source" Page="262" Open="0" />
+        <Item ID="183" Name="Rendering the map image" Page="263" Open="0" />
+      </Item>
+      <Item ID="184" Name="The &quot;show results&quot; script" Page="265" Open="0">
+        <Item ID="185" Name="Identifying the clicked-on point" Page="266" Open="0" />
+        <Item ID="186" Name="Identifying features by distance" Page="267" Open="0" />
+        <Item ID="187" Name="Displaying the results" Page="276" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="188" Name="Application review and improvements" Page="279" Open="0">
+      <Item ID="189" Name="Usability" Page="279" Open="0" />
+      <Item ID="190" Name="Quality" Page="281" Open="0">
+        <Item ID="191" Name="Place name issues" Page="281" Open="0" />
+        <Item ID="192" Name="Lat/Long coordinate problems" Page="281" Open="0" />
+      </Item>
+      <Item ID="193" Name="Performance" Page="283" Open="0">
+        <Item ID="194" Name="Finding the problem" Page="283" Open="0" />
+        <Item ID="195" Name="Improving performance" Page="286" Open="0" />
+        <Item ID="196" Name="Calculating the tiled shorelines" Page="288" Open="0" />
+        <Item ID="197" Name="Using the tiled shorelines" Page="297" Open="0" />
+        <Item ID="198" Name="Analyzing the performance improvement" Page="299" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="199" Name="Summary" Page="299" Open="0" />
+  </Item>
+  <Item ID="200" Name="Chapter 8: Using Python and Mapnik &#xD;to Generate Maps" Page="302" Open="0">
+    <Item ID="201" Name="Introducing Mapnik" Page="303" Open="0" />
+    <Item ID="202" Name="Creating an example map" Page="309" Open="0" />
+    <Item ID="203" Name="Mapnik in Depth" Page="313" Open="0">
+      <Item ID="204" Name="Data sources" Page="313" Open="0">
+        <Item ID="205" Name="Shapefile" Page="314" Open="0" />
+        <Item ID="206" Name="PostGIS" Page="315" Open="0" />
+        <Item ID="207" Name="Gdal" Page="317" Open="0" />
+        <Item ID="208" Name="Ogr" Page="318" Open="0" />
+        <Item ID="209" Name="SQLite" Page="319" Open="0" />
+        <Item ID="210" Name="OSM" Page="320" Open="0" />
+        <Item ID="211" Name="MemoryDatasource" Page="321" Open="0" />
+      </Item>
+      <Item ID="212" Name="Rules, filters, and styles" Page="321" Open="0">
+        <Item ID="213" Name="Filters" Page="322" Open="0" />
+        <Item ID="214" Name="Scale denominators" Page="324" Open="0" />
+        <Item ID="215" Name="&quot;Else&quot; rules" Page="326" Open="0" />
+        <Item ID="216" Name="&quot;Also&quot; rules" Page="326" Open="0" />
+      </Item>
+      <Item ID="217" Name="Symbolizers" Page="327" Open="0">
+        <Item ID="218" Name="Drawing lines" Page="327" Open="0" />
+        <Item ID="219" Name="Drawing polygons" Page="333" Open="0" />
+        <Item ID="220" Name="Drawing labels" Page="336" Open="0" />
+        <Item ID="221" Name="Drawing points" Page="346" Open="0" />
+        <Item ID="222" Name="Drawing raster images" Page="350" Open="0" />
+        <Item ID="223" Name="Using colors" Page="352" Open="0" />
+      </Item>
+      <Item ID="224" Name="Maps and layers" Page="353" Open="0">
+        <Item ID="225" Name="Map attributes and methods" Page="354" Open="0" />
+        <Item ID="226" Name="Layer attributes and methods" Page="355" Open="0" />
+      </Item>
+      <Item ID="227" Name="Map rendering" Page="356" Open="0" />
+    </Item>
+    <Item ID="228" Name="MapGenerator revisited" Page="358" Open="0">
+      <Item ID="229" Name="The MapGenerator's interface" Page="359" Open="0" />
+      <Item ID="230" Name="Creating the main map layer" Page="360" Open="0" />
+      <Item ID="231" Name="Displaying points on the map" Page="361" Open="0" />
+      <Item ID="232" Name="Rendering the map" Page="362" Open="0" />
+      <Item ID="233" Name="What the map generator teaches us" Page="363" Open="0" />
+    </Item>
+    <Item ID="234" Name="Map definition files" Page="363" Open="0" />
+    <Item ID="235" Name="Summary" Page="367" Open="0" />
+  </Item>
+  <Item ID="236" Name="Chapter 9: Putting It All Together – a Complete Mapping System" Page="370" Open="0">
+    <Item ID="237" Name="About the ShapeEditor" Page="370" Open="0" />
+    <Item ID="238" Name="Designing the ShapeEditor" Page="374" Open="0">
+      <Item ID="239" Name="Importing a shapefile" Page="375" Open="0" />
+      <Item ID="240" Name="Selecting a feature" Page="377" Open="0" />
+      <Item ID="241" Name="Editing a feature" Page="379" Open="0" />
+      <Item ID="242" Name="Exporting a shapefile" Page="379" Open="0" />
+    </Item>
+    <Item ID="243" Name="Prerequisites" Page="379" Open="0" />
+    <Item ID="244" Name="The structure of a Django application" Page="380" Open="0">
+      <Item ID="245" Name="Models" Page="382" Open="0" />
+      <Item ID="246" Name="Views" Page="383" Open="0" />
+      <Item ID="247" Name="URL dispatching" Page="383" Open="0" />
+      <Item ID="248" Name="Templates" Page="386" Open="0" />
+    </Item>
+    <Item ID="249" Name="Setting up the database" Page="388" Open="0" />
+    <Item ID="250" Name="Setting up the ShapeEditor project" Page="390" Open="0" />
+    <Item ID="251" Name="Defining the ShapeEditor's applications" Page="392" Open="0" />
+    <Item ID="252" Name="Creating the shared application" Page="392" Open="0" />
+    <Item ID="253" Name="Defining the data models" Page="394" Open="0">
+      <Item ID="254" Name="Shapefile" Page="395" Open="0" />
+      <Item ID="255" Name="Attribute" Page="395" Open="0" />
+      <Item ID="256" Name="Feature" Page="396" Open="0" />
+      <Item ID="257" Name="AttributeValue" Page="396" Open="0" />
+      <Item ID="258" Name="The models.py file" Page="397" Open="0" />
+    </Item>
+    <Item ID="259" Name="Playing with the admin system" Page="401" Open="0" />
+    <Item ID="260" Name="Summary" Page="408" Open="0" />
+  </Item>
+  <Item ID="261" Name="Chapter 10: ShapeEditor – Implementing List View, Import, and Export" Page="410" Open="0">
+    <Item ID="262" Name="Implementing the &quot;list shapefiles&quot; view" Page="410" Open="0" />
+    <Item ID="263" Name="Importing shapefiles" Page="415" Open="0">
+      <Item ID="264" Name="The &quot;import shapefile&quot; view function" Page="416" Open="0" />
+      <Item ID="265" Name="Extracting the uploaded shapefile" Page="420" Open="0" />
+      <Item ID="266" Name="Importing the shapefile's contents" Page="422" Open="0">
+        <Item ID="267" Name="Open the shapefile" Page="422" Open="0" />
+        <Item ID="268" Name="Add the Shapefile object to the database" Page="423" Open="0" />
+        <Item ID="269" Name="Define the shapefile's attributes" Page="424" Open="0" />
+        <Item ID="270" Name="Store the shapefile's features" Page="425" Open="0" />
+        <Item ID="271" Name="Store the shapefile's attributes" Page="427" Open="0" />
+      </Item>
+      <Item ID="272" Name="Cleaning up" Page="430" Open="0" />
+    </Item>
+    <Item ID="273" Name="Exporting Shapefiles" Page="431" Open="0">
+      <Item ID="274" Name="Define the OGR Shapefile" Page="432" Open="0" />
+      <Item ID="275" Name="Saving the features into the shapefile" Page="433" Open="0" />
+      <Item ID="276" Name="Saving the attributes into the shapefile" Page="435" Open="0" />
+      <Item ID="277" Name="Compressing the shapefile" Page="437" Open="0" />
+      <Item ID="278" Name="Deleting temporary files" Page="437" Open="0" />
+      <Item ID="279" Name="Returning the ZIP archive to the user" Page="437" Open="0" />
+    </Item>
+    <Item ID="280" Name="Summary" Page="439" Open="0" />
+  </Item>
+  <Item ID="281" Name="Chapter 11: ShapeEditor – Selecting and Editing Features" Page="440" Open="0">
+    <Item ID="282" Name="Selecting a feature to edit" Page="441" Open="0">
+      <Item ID="283" Name="Implementing the Tile Map Server" Page="442" Open="0">
+        <Item ID="284" Name="Setting up the Base Map" Page="452" Open="0" />
+        <Item ID="285" Name="Tile rendering" Page="455" Open="0" />
+      </Item>
+      <Item ID="286" Name="Using OpenLayers to display the map" Page="461" Open="0" />
+      <Item ID="287" Name="Intercepting mouse clicks" Page="466" Open="0" />
+      <Item ID="288" Name="Implementing the find feature view" Page="471" Open="0" />
+    </Item>
+    <Item ID="289" Name="Editing features" Page="477" Open="0" />
+    <Item ID="290" Name="Adding features" Page="485" Open="0" />
+    <Item ID="291" Name="Deleting features" Page="488" Open="0" />
+    <Item ID="292" Name="Deleting shapefiles" Page="489" Open="0" />
+    <Item ID="293" Name="Using ShapeEditor" Page="491" Open="0" />
+    <Item ID="294" Name="Further improvements and enhancements" Page="491" Open="0" />
+    <Item ID="295" Name="Summary" Page="492" Open="0" />
+  </Item>
+  <Item ID="296" Name="Index" Page="494" Open="0" />
+</BookmarkExport>
