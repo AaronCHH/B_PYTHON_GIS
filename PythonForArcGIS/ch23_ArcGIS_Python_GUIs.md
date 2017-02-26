@@ -39,7 +39,7 @@
 
 ## 23.1 Creating a Script Tool
 
-* **Example 23.1:Simple script for illustrating Script Tools textLister.py**  
+* **Example 23.1:Simple script for illustrating Script Tools textLister.py**
 
 
 ```python
@@ -84,7 +84,7 @@ print 5, 'miles'
 arcpy.AddMessage(5,'miles')
 ```
 
-* **Example 23.2:Print and AddMessage print4ScriptTools.py**  
+* **Example 23.2:Print and AddMessage print4ScriptTools.py**
 
 
 ```python
@@ -126,7 +126,7 @@ printArc(myMessage)
 
 ## 23.2 Creating a GUI
 
-* **Example 23.3 deleter.py**  
+* **Example 23.3 deleter.py**
 
 
 ```python
@@ -195,7 +195,7 @@ arcpy.Copy_management(sys.argv[1], sys.argv[2])
 arcpy.SetParameterAsText(0, outputFile)
 ```
 
-* **Example 23.4 buffer1.py**  
+* **Example 23.4 buffer1.py**
 
 
 ```python
@@ -221,7 +221,7 @@ arcpy.SetParameterAsText(0, outputFile)
 
 ```
 
-* **Example 23.5 buffer2.py**  
+* **Example 23.5 buffer2.py**
 
 
 ```python
@@ -246,7 +246,7 @@ arcpy.SetParameterAsText(2, outputFile)
 
 #### 23.2.2.3 Multivalue
 
-* **Example 23.6 multiIn.py**  
+* **Example 23.6 multiIn.py**
 
 
 ```python
@@ -271,7 +271,7 @@ for i in inputList:
 
 ```
 
-* **Example 23.7 bufferAll.py**  
+* **Example 23.7 bufferAll.py**
 
 
 ```python
@@ -310,7 +310,7 @@ arcpy.SetParameterAsText(2, results)
 
 #### 23.2.2.4 Default or Schema
 
-* **Example 23.8 getFeatures.py**  
+* **Example 23.8 getFeatures.py**
 
 
 ```python
@@ -332,7 +332,7 @@ arcpy.SetParameterAsText(1, outputFeat)
 
 #### 23.2.2.6 Filter
 
-* **Example 23.9 regional.py**  
+* **Example 23.9 regional.py**
 
 
 ```python
@@ -365,7 +365,7 @@ del sc
 
 #### 23.2.2.7 Obtained from
 
-* **Example 23.10 combineFields.py**  
+* **Example 23.10 combineFields.py**
 
 
 ```python
@@ -387,7 +387,7 @@ arcpy.SetParameterAsText(4, dataset)
 
 ```
 
-* **Example 23.11 feature2point.py**  
+* **Example 23.11 feature2point.py**
 
 
 ```python
@@ -418,7 +418,7 @@ arcpy.SetParameterAsText(1, outputFile)
 
 ## 23.3 Showing
 
-* **Example 23.12 Excerpt from defaultProgressor.py**  
+* **Example 23.12 Excerpt from defaultProgressor.py**
 
 
 ```python
@@ -468,7 +468,7 @@ for d in data:
 
 ```
 
-* **Example 23.13 Excerpt from stepProgressor.py**  
+* **Example 23.13 Excerpt from stepProgressor.py**
 
 
 ```python
@@ -529,7 +529,7 @@ for d in data:
 
 ## 23.4 Validating
 
-* **Example 23.14:ToolValidator code from Script Tool, '01_favorites_um', in validatorExamples.tbx**  
+* **Example 23.14:ToolValidator code from Script Tool, '01_favorites_um', in validatorExamples.tbx**
 
 
 ```python
@@ -552,7 +552,7 @@ return
 
 ### 23.4.1 The ToolValidator Class
 
-* **Example 23.15**  
+* **Example 23.15**
 
 
 ```python
@@ -607,7 +607,7 @@ if self.params[0].altered:
 
 #### 23.4.1.3 AninitializeParameters Example
 
-*#** Example 23.16:Code in the 'validatorExamples.tbx/02_categories_ip'ToolValidator**  
+*#** Example 23.16:Code in the 'validatorExamples.tbx/02_categories_ip'ToolValidator**
 
 
 ```python
@@ -626,7 +626,7 @@ def initializeParameters(self):
 
 #### 23.4.1.4 AnupdateParameters Example
 
-*#** Example 23.17:ToolValidator code from Script Tool, 'validatorExamples.tbx 03_rasters_up'.**  
+*#** Example 23.17:ToolValidator code from Script Tool, 'validatorExamples.tbx 03_rasters_up'.**
 
 
 ```python
@@ -656,7 +656,7 @@ def updateMessages(self):
 
 ## 23.5 Python Toolboxes
 
-* **Example 23.18:Python toolbox template**  
+* **Example 23.18:Python toolbox template**
 
 
 ```python
@@ -719,7 +719,7 @@ myParam.name = 'My_precious'
 return[param1, param2]
 ```
 
-* **Example 23.19**  
+* **Example 23.19**
 
 
 ```python
@@ -748,7 +748,7 @@ def getParameterInfo(self):
 
 ### 23.5.2 Checking for Licenses (isLicensed)
 
-* **Example 23.20**  
+* **Example 23.20**
 
 
 ```python
@@ -763,7 +763,7 @@ def isLicensed(self):
 
 ### 23.5.3 Validation (updateParameters and updateMessages)
 
-* **Example 23.21**  
+* **Example 23.21**
 
 
 ```python
@@ -783,12 +783,12 @@ def updateMessages(self, parameters):
     if parameters[0].altered:
         if not parameters[1]. filter.list:
             parameters[0].setErrorMessage('This directory does not contain any rasters.')
-    return        
+    return
 ```
 
 ### 23.5.4 Running the Code (execute)
 
-* **Example 23.22**  
+* **Example 23.22**
 
 
 ```python
@@ -819,7 +819,7 @@ def execute(self, parameters, messages):
     rastModule.batchSine(wkspace, rasters)
 ```
 
-* **Example 23.23 rastModule.py**  
+* **Example 23.23 rastModule.py**
 
 
 ```python
@@ -844,7 +844,7 @@ def batchSine(workspace, rastList):
 
 ### 23.5.5 Comparing Tools
 
-* **Example 23.24**  
+* **Example 23.24**
 
 
 ```python
@@ -863,7 +863,7 @@ def execute(self, parameters, messages):
     arcpy.SetParameterAsText(4,dataset)
 ```
 
-* **Example 23.25:TheparametersDependencies Parameter property is equivalent to the 'Obtained from' Script Tool property**  
+* **Example 23.25:TheparametersDependencies Parameter property is equivalent to the 'Obtained from' Script Tool property**
 
 
 ```python
@@ -886,7 +886,7 @@ def getParameterInfo(self):
     param2.parameterDependencies = [param1.name]
 ```
 
-* **Example 23.26**  
+* **Example 23.26**
 
 
 ```python
@@ -911,5 +911,15 @@ def getAbsPath(relativePath):
 ## 23.6 Discussion
 
 ## 23.7 Key Terms
+* Script Tool  
+* Geoprocessing Window  
+* Widget  
+* Combo box  
+* ToolValidator class  
+* Validation  
+* Internal validation  
+* Python toolbox  
+* Parameter object  
+* Value object  
 
 ## 23.8 Exercises

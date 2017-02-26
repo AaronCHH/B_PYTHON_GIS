@@ -28,7 +28,7 @@
 ### 1.3.5 Geodatabase
 ## 1.4 An Introductory Example
 
-* **simpleBuffer_1.py**  
+* **simpleBuffer_1.py**
 
 
 ```python
@@ -55,7 +55,14 @@ arcpy.Buffer_analysis('./ch01/data/park.shp',
 ## 1.5 Organization of This Book
 ## 1.6 Key Terms
 
-
-```python
-
-```
+* Geoprocessing
+* GRID rasters
+* Vector data
+* Symbology
+* dBASE file
+* Layer file
+* Geodatabase
+* Feature class
+* Window Explorer vs. ArcCatalog
+* Buffer (Analysis) tool
+* ArcGIS Python Window

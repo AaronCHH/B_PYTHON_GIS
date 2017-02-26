@@ -77,7 +77,7 @@ for fc in fcs:
     USABuffer.shp
 
 
-* **Example 11.1: Call anarcpy listing method and loop through the results**  
+* **Example 11.1: Call anarcpy listing method and loop through the results**
 
 
 ```python
@@ -125,7 +125,7 @@ for table in tables:
 
 ## 11.2 Specify Data Name and Type
 
-* **Example 11.2a–c: List rasters in workspace and usewild_card arguments**  
+* **Example 11.2a–c: List rasters in workspace and usewild_card arguments**
 
 
 ```python
@@ -170,7 +170,7 @@ print rasts
     [u'elev']
 
 
-* **Example 11.3a–e: List rasters in workspace using wild_card and raster_type arguments**  
+* **Example 11.3a–e: List rasters in workspace using wild_card and raster_type arguments**
 
 
 ```python
@@ -270,7 +270,7 @@ for fieldObject in fields:
     RECNO
 
 
-* **Example 11.4: List theField object properties**  
+* **Example 11.4: List theField object properties**
 
 
 ```python
@@ -349,7 +349,7 @@ for data in datasets:
     arcpy.Delete_management(data)
 ```
 
-* **Example 11.5: Batch buffer the feature class files in 'C:/gispy/data/ch11/'**  
+* **Example 11.5: Batch buffer the feature class files in 'C:/gispy/data/ch11/'**
 
 
 ```python
@@ -386,7 +386,7 @@ for fc in fcs:
     USABufferBuffer.shp created.
 
 
-* **Example 11.6: Batch buffer files in 'C:/gispy/data/ch11/' and place them in directory**  
+* **Example 11.6: Batch buffer files in 'C:/gispy/data/ch11/' and place them in directory**
 
 
 ```python
@@ -421,7 +421,7 @@ for fc in fcs:
     ch11/scratch/buffers/data1_buffer.shp created in ch11/scratch/buffers/.
     ch11/scratch/buffers/data1Buffer_buffer.shp created in ch11/scratch/buffers/.
 
-* **Example 11.7 tableLister.py**  
+* **Example 11.7 tableLister.py**
 
 
 ```python
@@ -478,5 +478,11 @@ print '{0}/hubs created.'.format(arcpy.env.workspace)
 ```
 
 ## 11.7 Key Terms
+* TheListFeatureClasses, List Raster, ListTables, and List Fields methods
+* Asterisks as wild cards
+* Thearcpy Field object
+* Step though code
+* Step, step over, step out buttons
+* Watch window
 
 ## 11.8 Exercises

@@ -49,7 +49,7 @@ printBird()
 
 
 
-* **Example 15.1 reportArgs.py**  
+* **Example 15.1 reportArgs.py**
 
 
 ```python
@@ -94,7 +94,7 @@ help(printArgs)
 
 ## 15.2 Custom Functions with Arguments
 
-* **Example 15.2 deleteFCS.py**  
+* **Example 15.2 deleteFCS.py**
 
 
 ```python
@@ -227,7 +227,7 @@ batchBuffer(wSpace, featureType, outputSuffix, distance)
 
 ### 15.2.1 Script Arguments vs. Functions Arguments
 
-* **Example 15.3 setEnv1.py**  
+* **Example 15.3 setEnv1.py**
 
 
 ```python
@@ -376,7 +376,7 @@ result = fieldExists('C:/gispy/data/ch15/park.shp', 'COVER')
 result
 ```
 
-* **Example 15.4 oops.py**  
+* **Example 15.4 oops.py**
 
 
 ```python
@@ -408,7 +408,7 @@ print 'There are {0} intersections.'.format(count)
 
 ```
 
-* **Example 15.5 age.py**  
+* **Example 15.5 age.py**
 
 
 ```python
@@ -451,7 +451,7 @@ return age
 
 ### 15.3.1 A Common Mistake: Where Did the None Come from?
 
-* **except from returnVSprint.py**  
+* **except from returnVSprint.py**
 
 
 ```python
@@ -532,7 +532,7 @@ print 'y = {0}'.format(t[1])
 
 ```
 
-* **Example 15.6 walkCount.py**  
+* **Example 15.6 walkCount.py**
 
 
 ```python
@@ -572,7 +572,7 @@ print 'Time elapsed: {0} weeks, {1} days, {2}:{3}:{4}'.format(t[0], t[1], t[2], 
 
 ## 15.4 When to Write Functions
 
-* **scriptWithoutFunction.py**  
+* **scriptWithoutFunction.py**
 
 
 ```python
@@ -602,7 +602,7 @@ for message in resList:
 
 ```
 
-* **Example 15.7 scriptWithFunction.py**  
+* **Example 15.7 scriptWithFunction.py**
 
 
 ```python
@@ -785,7 +785,7 @@ print result
 
 ### 15.5.2 Pass in Outside Variables
 
-* **Example 15.8 passVars.py**  
+* **Example 15.8 passVars.py**
 
 
 ```python
@@ -828,6 +828,11 @@ myList
 
 
 ## 15.6 Key Terms
+* Custom functions  
+* Default arguments  
+* Docstrings  
+* Thereturn keyword  
+* Script level variable  
 
 ## 15.7 Exercises
 

@@ -319,7 +319,7 @@ sum(data)
 
 
 
-* **Example 19.1 parseTable.py**  
+* **Example 19.1 parseTable.py**
 
 
 ```python
@@ -355,7 +355,7 @@ except IOError:
 
 ```
 
-* **Example 19.2 cfactor.py**  
+* **Example 19.2 cfactor.py**
 
 
 ```python
@@ -396,7 +396,7 @@ mylist.index('c')
 
 
 
-* **Example 19.3 fieldIndex.py**  
+* **Example 19.3 fieldIndex.py**
 
 
 ```python
@@ -430,7 +430,7 @@ with open(infile, 'r') as f:
 
 ## 19.3 Modifying Text
 
-* **Example 19.4 cfactorModify.py**  
+* **Example 19.4 cfactorModify.py**
 
 
 ```python
@@ -493,7 +493,7 @@ ENDIF
 
 ### 19.3.2 Working with Tabular Text
 
-* **Example 19.5 removeHeader.py**  
+* **Example 19.5 removeHeader.py**
 
 
 ```python
@@ -535,7 +535,7 @@ ENDFOR
 
 ## 19.4 Pickling
 
-* **Example 19.6 Excerpt from sample script 'removeRecords.py'**  
+* **Example 19.6 Excerpt from sample script 'removeRecords.py'**
 
 
 ```python
@@ -605,6 +605,18 @@ f2.close()
 ## 19.5 Discussion
 
 ## 19.6 Key Terms
+* The 'file'  data type
+* The built-inopen function
+* The fileread, readline, write,  and close methods
+* The WITH statement for opening files
+* The for line in f reading approach
+* The IOError exception
+* Current working directory vs.arcpy workspace
+* Parse
+* The open/read/parse/modify/write/close/replace workflow
+* The shutil module
+* The listpop method
+* The pickle module
 
 ## 19.7 Exercises
 

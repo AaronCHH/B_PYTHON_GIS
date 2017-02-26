@@ -12,7 +12,7 @@
 
 ## 8.1 Outlining Workflow
 
-* **Example 8.1: Pseudocode for processing dredging sediment data repeats steps 3–5 for each table.**  
+* **Example 8.1: Pseudocode for processing dredging sediment data repeats steps 3–5 for each table.**
 
 ```
 GET a list of the weekly data base tables.
@@ -24,7 +24,7 @@ ENDFOR
 Find weighted sum of output rasters.
 ```
 
-* **Example 8.2: Pseudocode for automatically fetching and uncompressing data files listed on a web site.**  
+* **Example 8.2: Pseudocode for automatically fetching and uncompressing data files listed on a web site.**
 
 ```
 GET the data center web page URL.
@@ -43,7 +43,7 @@ FOR each data link
 ENDFOR
 ```
 
-* **Example 8.3: Pseudocode for preparing a table for ArcGIS import by deleting unneeded rows and columns and repairing fi eld names.**  
+* **Example 8.3: Pseudocode for preparing a table for ArcGIS import by deleting unneeded rows and columns and repairing fi eld names.**
 
 ```
 FUNC preprocessTable (data table, field name row number, first
@@ -68,7 +68,7 @@ invalid column number)
 ENDFUNC
 ```
 
-* **Example 8.4: Pseudocode for preparing a set of tables for ArcGIS import; For each table, it deletes the fi rst 5 rows and the columns beyond column 50, and repairs the fi eld names.**  
+* **Example 8.4: Pseudocode for preparing a set of tables for ArcGIS import; For each table, it deletes the fi rst 5 rows and the columns beyond column 50, and repairs the fi eld names.**
 
 ```
 GET a list of table names.
@@ -77,7 +77,7 @@ FOR each table name in the list
 ENDFOR
 ```
 
-* **Example 8.5: Pseudocode for correcting a misspelled fi eld name (vlue to value) in each of a set of tables that are distributed through a set of subdirectories.**  
+* **Example 8.5: Pseudocode for correcting a misspelled fi eld name (vlue to value) in each of a set of tables that are distributed through a set of subdirectories.**
 
 ```
 FOR each subdirectory of the current directory
@@ -93,6 +93,17 @@ ENDFOR
 ```
 
 ## 8.2 Key Terms
+* Workflow structures: sequential steps, repetition, decision-making
+* Looping
+* Branching
+* Pseudocode
+* Block structures
+* WHILE-loop
+* FOR-loop
+* Looping variable
+* Iterate  
+* Functions (procedures, subroutines)
+* Nested structures
 
 ## 8.3 Exercises
 

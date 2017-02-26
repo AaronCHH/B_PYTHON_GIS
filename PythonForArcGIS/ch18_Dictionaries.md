@@ -111,7 +111,7 @@ elif num == 4:
     print 'Weekday: {0}'.format(day)
 ```
 
-* **Example 18.1 weekdays.py**  
+* **Example 18.1 weekdays.py**
 
 
 ```python
@@ -292,7 +292,7 @@ for k, v in roomDict.items():
 
 ## 18.3 Populating a Dictionary
 
-* **Example 18.2 healthyLiving.py**  
+* **Example 18.2 healthyLiving.py**
 
 
 ```python
@@ -312,7 +312,7 @@ print 'favDict {0}'.format(favDict)
 
 ```
 
-* **Example 18.3 healthyLivingV2.py**  
+* **Example 18.3 healthyLivingV2.py**
 
 
 ```python
@@ -336,7 +336,7 @@ print 'topDict {0}'.format(topDict)
 
 ```
 
-* **Example 18.4 fileDates.py**  
+* **Example 18.4 fileDates.py**
 
 
 ```python
@@ -362,7 +362,7 @@ print fileDict
 
 ### 18.3.1 Dictionaries and Cursors
 
-* **Example 18.5 areaMedian.py**  
+* **Example 18.5 areaMedian.py**
 
 
 ```python
@@ -400,7 +400,7 @@ for k, v in areasDict.items():
 
 ```
 
-* **Example 18.6 coverMedianArea.py**  
+* **Example 18.6 coverMedianArea.py**
 
 
 ```python
@@ -447,9 +447,12 @@ for k, v in d.items():
 
 ## 18.5 Key Terms
 
-
-```python
-
-```
+* 'dict' data type  
+* Key  
+* Value  
+* Item  
+* Access by key vs. indexing multi-way conditional construct  
+* Dictionary methods (keys, values, items)  
+* numpy module  
 
 ## 18.6 Exercises

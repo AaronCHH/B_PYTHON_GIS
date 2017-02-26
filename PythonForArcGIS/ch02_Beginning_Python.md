@@ -25,7 +25,7 @@
 ## 2.2 How to Run Code in PythonWin and PyScripter
 ## 2.3 How to Pass Input to a Script
 
-* **ch02/add_version1.py**  
+* **ch02/add_version1.py**
 
 ```python
 import os, sys
@@ -52,7 +52,7 @@ print 'The sum is {0}.'.format(c)
 
 ## 2.4 Python Components
 
-* **ch02/add_version2.py**  
+* **ch02/add_version2.py**
 
 
 ```python
@@ -80,7 +80,7 @@ print 'The sum is {0}.'.format(c)
     The sum is 8.
 
 
-* **ch02/describe_fc.py**  
+* **ch02/describe_fc.py**
 
 
 ```python
@@ -490,6 +490,36 @@ os.listdir('ch02/data')
 ```
 
 ## 2.5 Key Terms
+* Integrated development environment (IDE)
+* Python script
+* PythonWin
+* PythonWin Interactive Window
+* PythonWin script window
+* PyScripter
+* Python prompt (>>>)
+* Python interpreter
+* Window focus
+* Script arguments
+* Context highlighting
+* Code comments
+* Hash sign
+* Python keywords
+* Variables
+* Assignment statement
+* Dynamic typing
+* Block structure, block of code
+* Dedented
+* Tracebacks
+* Built-in functions, constants, and exceptions
+* Function arguments
+* Function signatures
+* Function parameters
+* Exceptions thrown
+* True, False, None
+* NameError, SyntaxError, and TypeError
+* Module
+* Standard modules
+* math, sys, os.shutil
 
 ## 2.6 Exercises
 

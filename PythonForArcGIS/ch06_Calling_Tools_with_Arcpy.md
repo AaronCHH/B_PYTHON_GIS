@@ -219,7 +219,7 @@ count + 25
 int(count) + 25
 ```
 
-* **Example 6.1 avgNearNeighbor.py**  
+* **Example 6.1 avgNearNeighbor.py**
 
 
 ```python
@@ -312,7 +312,7 @@ outputNum = int(myNum)
 
 ### 6.5.3 Raster Calculator
 
-* **Example 6.2 computeRastEquation.py**  
+* **Example 6.2 computeRastEquation.py**
 
 
 ```python
@@ -409,7 +409,7 @@ fireBuffer = fireDamage[:-4] + 'Buffer.shp'
 fireBuffer
 ```
 
-* **Example 6.3 buffer_clip.py**  
+* **Example 6.3 buffer_clip.py**
 
 
 ```python
@@ -477,7 +477,7 @@ arcpy.CalculateField_management(inputFile, fieldName, '!shape.length!', 'PYTHON'
 
 ## 6.8 Calling Custom Tools
 
-* **Example 6.5 callInventory.py**  
+* **Example 6.5 callInventory.py**
 
 
 ```python
@@ -508,6 +508,17 @@ print 'Summary text {0} created in {1}'.format(summary, inputDir)
 ## 6.10 Discussion
 
 ## 6.11 Key Terms
+* Full path file name
+* Python expression parameters
+* Optional parameters
+* Result object
+* Multivalue input
+* Multivalue string
+* ValueTable object
+* Temporary feature layers
+* Map Algebra
+* Raster object
+
 ## 6.12 Exercises
 
 

@@ -23,7 +23,7 @@
 import arcpy, os, sys
 ```
 
-* **Example 16.1: A user-defined module**  
+* **Example 16.1: A user-defined module**
 
 
 ```python
@@ -173,7 +173,7 @@ theList = listManager.string2List(';' , theString)
 theList
 ```
 
-* **Example 16.2:Using a user-defi ned module from a script excerpt from sortString.py**  
+* **Example 16.2:Using a user-defi ned module from a script excerpt from sortString.py**
 
 
 ```python
@@ -312,7 +312,7 @@ hrs
 datetime.datetime.now() < dt
 ```
 
-* **Example 16.3:A user-defi ned module timeReport.py**  
+* **Example 16.3:A user-defi ned module timeReport.py**
 
 
 ```python
@@ -372,15 +372,14 @@ if __name__ == '__main__':
 
 ## 16.7 Key Terms
 
-```
-User-defined module
-sys.path variable
-Built-in__ file__ variable
-Absolute vs. relative paths
-Built-inreload function
-Built-in__name__ variable
-Built-intime anddatetime modules
-```
+* User-defined module
+* sys.path variable
+* Built-in ```__file__``` variable
+* Absolute vs. relative paths
+* Built-in reload function
+* Built-in ```__name__``` variable
+* Built-in time anddatetime modules
+
 
 ## 16.8 Exercises
 

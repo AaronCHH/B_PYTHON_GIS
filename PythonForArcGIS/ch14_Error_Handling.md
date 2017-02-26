@@ -76,7 +76,7 @@ print 'Good bye!'
 
 ### 14.1.1 Using Named Exceptions
 
-* **doubleMyNumberV2.py**  
+* **doubleMyNumberV2.py**
 
 
 ```python
@@ -100,7 +100,7 @@ print 'Good bye!'
 
 ### 14.1.2 Multiple except Blocks
 
-* **slopeTry.py**  
+* **slopeTry.py**
 
 
 ```python
@@ -130,7 +130,7 @@ print 'Slope:', slope
 
 ### 14.1.3 Error Handling Gotcha
 
-* **cubeMyNumber.py**  
+* **cubeMyNumber.py**
 
 
 ```python
@@ -150,7 +150,7 @@ print 'Good bye!'
 
 ```
 
-* **cubeMyNumberV2.py**  
+* **cubeMyNumberV2.py**
 
 
 ```python
@@ -264,7 +264,7 @@ print arcpy.GetMessages()
 
 ### 14.2.2 The arcpy Named Exception
 
-* **Example 14.1 bufferTry.py**  
+* **Example 14.1 bufferTry.py**
 
 
 ```python
@@ -290,7 +290,7 @@ except IndexError:
 
 ## 14.3 Catching Exceptions in Loops
 
-* *Example 14.2 bufferLoopTry.py**  
+* *Example 14.2 bufferLoopTry.py**
 
 
 ```python
@@ -328,7 +328,7 @@ for fc in fcs:
     Created: ch14/scratch/parkLinesBuff.shp
 
 
-* *Example 14.3 bufferLoopDistTry.py**  
+* *Example 14.3 bufferLoopDistTry.py**
 
 
 ```python
@@ -404,5 +404,12 @@ for rast in arcpy.ListRasters():
 ```
 
 ## 14.5 Key Terms
+* try and except blocks
+* Named exceptions
+* arcpy.GetMessages()
+* Catch exceptions
+* The arcpy.ExecuteError exception
+* arcpy.GetMessage(index)
+* arcpy.GetMessageCount()
 
 ## 14.6 Exercises

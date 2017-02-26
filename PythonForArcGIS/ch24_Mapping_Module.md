@@ -54,7 +54,7 @@ arcpy.mapping.ListBrokenDataSources(mxd)
 del mxd
 ```
 
-* **Example 24.1:Export the layout view of a map document to a PNG image (Figure24.2)**  
+* **Example 24.1:Export the layout view of a map document to a PNG image (Figure24.2)**
 
 
 ```python
@@ -316,7 +316,7 @@ referenceLayer.name
 arcpy.mapping.MoveLayer(df, referenceLayer, layerToMove, 'BEFORE')
 ```
 
-* **Example 24.2:Remove the first layer from a map removeLayers.py**  
+* **Example 24.2:Remove the first layer from a map removeLayers.py**
 
 
 ```python
@@ -357,7 +357,7 @@ del mxd
 
 ```
 
-* **Example 24.3:Adding a shapefile layer to a map addLayer.py**  
+* **Example 24.3:Adding a shapefile layer to a map addLayer.py**
 
 
 ```python
@@ -493,6 +493,15 @@ arcpy.mapping.ExportToPDF(mxd, myExport)
 ## 24.5 Discussion
 
 ## 24.6 Key Terms
+* MapDocument objects
+* DataFrame objects
+* Layer objects
+* 'CURRENT'  vs. map name
+* RefreshActiveView method
+* Layer file (.lyr extension)  
+* SymbologyType property
+* Layer object symbology class
+* Layout element objects
 
 ## 24.7 Exercises
 

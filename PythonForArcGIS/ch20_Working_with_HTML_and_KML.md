@@ -28,7 +28,7 @@
 
 ## 20.1 Working with HTML
 
-* **Example 20.1: HTML code from the file elephant1.html**  
+* **Example 20.1: HTML code from the file elephant1.html**
 
 
 ```python
@@ -87,7 +87,7 @@ We <i>love</i> Python <br /> and GIS.
 
 ### 20.1.5 Writing HTML with Python
 
-* **Example 20.2 writeSimpleHTML.py**  
+* **Example 20.2 writeSimpleHTML.py**
 
 
 ```python
@@ -112,7 +112,7 @@ print '{0} created.'.format(htmlFile)
 
 ```
 
-* **Example 20.3 writeSimpleHTML2.py**  
+* **Example 20.3 writeSimpleHTML2.py**
 
 
 ```python
@@ -148,7 +148,7 @@ print '{0} created.'.format(htmlfile)
 
 ```
 
-* **Example 20.4 excerpt from printHTMLList.py**  
+* **Example 20.4 excerpt from printHTMLList.py**
 
 
 ```python
@@ -331,7 +331,7 @@ for t in tags:
     getty_cover
 
 
-* **Example 20.5 getLinks.py**  
+* **Example 20.5 getLinks.py**
 
 
 ```python
@@ -410,7 +410,7 @@ pics
 
 ### 20.2.2 Fetching Compressed Data
 
-* **Example 20.6 fetchZip.py**  
+* **Example 20.6 fetchZip.py**
 
 
 ```python
@@ -441,7 +441,7 @@ print '{0}{1} created.'.format(outputDir, os.path.basename(theURL))
 
 ### 20.2.3 Expanding Compressed Data
 
-* **Example 20.7 extractFiles.py**  
+* **Example 20.7 extractFiles.py**
 
 
 ```python
@@ -498,7 +498,7 @@ ENDFOR
 
 ### 20.3.1 The Structure of KML
 
-* **Example 20.8: KML code from the restaurants.kml file**  
+* **Example 20.8: KML code from the restaurants.kml file**
 
 ```html
 <?xml version="1.0" encoding="UTF-8"?>
@@ -521,12 +521,12 @@ ENDFOR
        </Point>
     </Placemark>
     </Document>
-</kml>  
+</kml>
 ```
 
 ### 20.3.2 Parsing KML
 
-* **Example 20.9 parseKMLrestaurants.py**  
+* **Example 20.9 parseKMLrestaurants.py**
 
 
 ```python
@@ -572,7 +572,7 @@ FOR each item in the tag lists
 ENDFOR
 ```
 
-* **Example 20.10 Excerpt from restaurantKML2shp.py**  
+* **Example 20.10 Excerpt from restaurantKML2shp.py**
 
 
 ```python
@@ -633,6 +633,21 @@ if ic:
 ## 20.4 Discussion
 
 ## 20.5 Key Terms
+* HTML
+* KML
+* HTML lists
+* HTML tables
+* Tags
+* Start tag and end tag
+* Tag content
+* Tag attributes
+* Wrapped tags
+* Beginning and ending tags
+* Fetch  
+* URL
+* Compressed file
+* Binary file
+* TheBeautifulSoup module
 
 ## 20.6 Exercises
 

@@ -40,7 +40,7 @@ trailList
 trailVegetation = {1: 'barren', 2: 'some bare ground', 5: 'stunted vegetation', 10: 'barren', 15: 'over-grown'}
 ```
 
-* **Example 21.1**  
+* **Example 21.1**
 
 
 ```python
@@ -66,7 +66,7 @@ class ClassName:
     code statement(s)
 ```
 
-* **Example 21.2: A Trail class, created using the class keyword and indenting all of the contents**  
+* **Example 21.2: A Trail class, created using the class keyword and indenting all of the contents**
 
 
 ```python
@@ -203,7 +203,7 @@ myTrail2.length = 2.1
 myTrail2.calculateCost()
 ```
 
-* **Example 21.4: Read a dataset and createTrail objects**  
+* **Example 21.4: Read a dataset and createTrail objects**
 
 
 ```python
@@ -332,7 +332,7 @@ for t in trailDict.values():
         del trailDict[t.ID]
 ```
 
-* **functionalTrailDelete.py**  
+* **functionalTrailDelete.py**
 
 
 ```python
@@ -411,7 +411,7 @@ t2.visits
 
 ## 21.5 Where to Define a Class
 
-* **Example 21.5: Defi ning a class, creating an object instance, and using the object properties and methods**  
+* **Example 21.5: Defi ning a class, creating an object instance, and using the object properties and methods**
 
 
 ```python
@@ -488,7 +488,7 @@ myHwy = highwayInfo.Highway('Paci fic Highway', 496, 5)
 myHwy.report()
 ```
 
-* **Example 21.6: Calling the Highway class in highwayInfo, from a separate script**  
+* **Example 21.6: Calling the Highway class in highwayInfo, from a separate script**
 
 
 ```python
@@ -512,6 +512,15 @@ print 'Orientation: {0}'.format(orient)
 ## 21.7 Discussion
 
 ## 21.8 Key Terms
+* Theclass keyword
+* Object-oriented programming
+* Functional programming
+* A class versus an object instance
+* Instantiating an object instance
+* Properties
+* Methods
+* Theself argument
+* The ```__init__``` method  
 
 ## 21.9 Exercises
 

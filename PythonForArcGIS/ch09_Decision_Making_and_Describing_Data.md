@@ -24,7 +24,7 @@
 
 <!-- tocstop -->
 
-* **Example 9.1**  
+* **Example 9.1**
 
 ```python
 if speciesCount < 500:
@@ -55,7 +55,7 @@ ELSE
 ENDIF
 ```
 
-* **Example 9.2: Check for valid polygon areas**  
+* **Example 9.2: Check for valid polygon areas**
 
 ```python
 if area > 0:
@@ -140,7 +140,7 @@ bool(5)
 
 
 
-* **Example 9.3: Print the ID numbers of highways and rivers**  
+* **Example 9.3: Print the ID numbers of highways and rivers**
 
 ```python
 if classType == 'major highway':
@@ -149,7 +149,7 @@ elif classType == 'river':
     print 'River--', FID
 ```
 
-* **Example 9.4: Print the ID number for all class types**  
+* **Example 9.4: Print the ID number for all class types**
 
 ```python
 if classType == 'highway’:
@@ -214,7 +214,7 @@ else:
 specialTypes = ['highway', 'river', 'stream', 'bridge']
 if classType in specialTypes:
     print classType, '--',FID
-else:    
+else:
     print 'Other--', FID
 ```
 
@@ -227,7 +227,7 @@ if classType not inspecialTypes:
 
 ## 9.2 ArcGIS Tools That Make Selections
 
-* **Example 9.5: Using a hard-coded where-clause.**  
+* **Example 9.5: Using a hard-coded where-clause.**
 
 
 ```python
@@ -280,7 +280,7 @@ whereClause5 = "{0} = '{1}'".format( fieldName, fieldValue)
 whereClause5
 ```
 
-* **Example 9.6: Using a where clause with variables.**  
+* **Example 9.6: Using a where clause with variables.**
 
 
 ```python
@@ -505,7 +505,7 @@ bounds.XMax
 ### 9.3.2 Lists of Properties
 ### 9.3.3 Using Specialized Properties
 
-* **Example 9.7: Using a Describe properties inside a conditional block**  
+* **Example 9.7: Using a Describe properties inside a conditional block**
 
 
 ```python
@@ -545,7 +545,7 @@ if desc.shapeType == 'Polyline' and desc.dataType in ['FeatureClass','Shapefile'
     print 'Smooth line'
 ```
 
-* **Example 9.8: Using a Describe properties inside a conditional block**  
+* **Example 9.8: Using a Describe properties inside a conditional block**
 
 
 ```python
@@ -569,7 +569,7 @@ if desc.dataType in ['FeatureClass', 'ShapeFile'] and desc.shapeType == 'Polylin
 
 ```
 
-* **Example 9.9: Using Describe properties inside a nested conditional block**  
+* **Example 9.9: Using Describe properties inside a nested conditional block**
 
 
 ```python
@@ -606,7 +606,7 @@ else:
 
 ## 9.4 Required and Optional Script Input
 
-* **Example 9.10 scriptPathOptionalv1.py**  
+* **Example 9.10 scriptPathOptionalv1.py**
 
 
 ```python
@@ -628,7 +628,7 @@ print os.listdir(workingDir)
 
 ```
 
-* **Example 9.11 scriptPathOptionalv2.py**  
+* **Example 9.11 scriptPathOptionalv2.py**
 
 
 ```python
@@ -650,7 +650,7 @@ print os.listdir(workingDir)
 
 ```
 
-* **Example 9.12: Simple distance converter distanceConvertv1.py**  
+* **Example 9.12: Simple distance converter distanceConvertv1.py**
 
 
 ```python
@@ -676,7 +676,7 @@ else:
 
 ```
 
-* **Example 9.13: Distance converter with input checking distanceConvertv2.py**  
+* **Example 9.13: Distance converter with input checking distanceConvertv2.py**
 
 
 ```python
@@ -752,7 +752,7 @@ if not arcpy.Exists(outPath + gdbName):
     arcpy.CreateFileGDB_management(outPath, gdbName)
 ```
 
-* **Example 9.14 copyFilev2.py**  
+* **Example 9.14 copyFilev2.py**
 
 
 ```python
@@ -782,11 +782,19 @@ print 'destination =', outputFile
 ```
 
 ## 9.6 Key Terms
+* if, elif, else, Python keywords  
+* Conditional constructs
+* Boolean expressions
+* Conditional expressions
+* Compound conditional expressions
+* The os.path.exists function
+* The os.mkdir function
+* The CreateFileGDB tool
 
 ## 9.7 Exercises
 
 ```
-if ,elif ,else , Python keywords
+if, elif, else,  Python keywords
 Conditional constructs
 Boolean expressions
 Conditional expressions
