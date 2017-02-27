@@ -1,0 +1,247 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0.5151515151515151</HistMin>
+        <HistMax>33.48484848484848</HistMax>
+        <BucketCount>33</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>2987|2825|1960|1125|1896|990|1886|1084|2767|936|55|2378|1436|2270|567|1488|1684|527|703|1133|1192|3222|3383|2347|2997|2129|2099|3162|1951|1851|2004|1662|1408</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>Rowid</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>COUNTY</Name>
+        <Type>2</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>1</F>
+        <F>2987</F>
+        <F>Rio Arriba County</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>2</F>
+        <F>2825</F>
+        <F>San Juan County</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>3</F>
+        <F>1960</F>
+        <F>Union County</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>4</F>
+        <F>1125</F>
+        <F>Taos County</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>5</F>
+        <F>1896</F>
+        <F>Colfax County</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>6</F>
+        <F>990</F>
+        <F>Mora County</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>7</F>
+        <F>1886</F>
+        <F>Sandoval County</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>8</F>
+        <F>1084</F>
+        <F>Harding County</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>9</F>
+        <F>2767</F>
+        <F>McKinley County</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>10</F>
+        <F>936</F>
+        <F>Santa Fe County</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>11</F>
+        <F>55</F>
+        <F>Los Alamos County</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>12</F>
+        <F>2378</F>
+        <F>San Miguel County</F>
+      </Row>
+      <Row index="12">
+        <F>12</F>
+        <F>13</F>
+        <F>1436</F>
+        <F>Quay County</F>
+      </Row>
+      <Row index="13">
+        <F>13</F>
+        <F>14</F>
+        <F>2270</F>
+        <F>Cibola County</F>
+      </Row>
+      <Row index="14">
+        <F>14</F>
+        <F>15</F>
+        <F>567</F>
+        <F>Bernalillo County</F>
+      </Row>
+      <Row index="15">
+        <F>15</F>
+        <F>16</F>
+        <F>1488</F>
+        <F>Guadalupe County</F>
+      </Row>
+      <Row index="16">
+        <F>16</F>
+        <F>17</F>
+        <F>1684</F>
+        <F>Torrance County</F>
+      </Row>
+      <Row index="17">
+        <F>17</F>
+        <F>18</F>
+        <F>527</F>
+        <F>Valencia County</F>
+      </Row>
+      <Row index="18">
+        <F>18</F>
+        <F>19</F>
+        <F>703</F>
+        <F>Curry County</F>
+      </Row>
+      <Row index="19">
+        <F>19</F>
+        <F>20</F>
+        <F>1133</F>
+        <F>DeBaca County</F>
+      </Row>
+      <Row index="20">
+        <F>20</F>
+        <F>21</F>
+        <F>1192</F>
+        <F>Roosevelt County</F>
+      </Row>
+      <Row index="21">
+        <F>21</F>
+        <F>22</F>
+        <F>3222</F>
+        <F>Socorro County</F>
+      </Row>
+      <Row index="22">
+        <F>22</F>
+        <F>23</F>
+        <F>3383</F>
+        <F>Catron County</F>
+      </Row>
+      <Row index="23">
+        <F>23</F>
+        <F>24</F>
+        <F>2347</F>
+        <F>Lincoln County</F>
+      </Row>
+      <Row index="24">
+        <F>24</F>
+        <F>25</F>
+        <F>2997</F>
+        <F>Chaves County</F>
+      </Row>
+      <Row index="25">
+        <F>25</F>
+        <F>26</F>
+        <F>2129</F>
+        <F>Lea County</F>
+      </Row>
+      <Row index="26">
+        <F>26</F>
+        <F>27</F>
+        <F>2099</F>
+        <F>Sierra County</F>
+      </Row>
+      <Row index="27">
+        <F>27</F>
+        <F>28</F>
+        <F>3162</F>
+        <F>Otero County</F>
+      </Row>
+      <Row index="28">
+        <F>28</F>
+        <F>29</F>
+        <F>1951</F>
+        <F>Grant County</F>
+      </Row>
+      <Row index="29">
+        <F>29</F>
+        <F>30</F>
+        <F>1851</F>
+        <F>Dona Ana County</F>
+      </Row>
+      <Row index="30">
+        <F>30</F>
+        <F>31</F>
+        <F>2004</F>
+        <F>Eddy County</F>
+      </Row>
+      <Row index="31">
+        <F>31</F>
+        <F>32</F>
+        <F>1662</F>
+        <F>Hidalgo County</F>
+      </Row>
+      <Row index="32">
+        <F>32</F>
+        <F>33</F>
+        <F>1408</F>
+        <F>Luna County</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">33</MDI>
+      <MDI key="STATISTICS_MEAN">17.570028617064</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">9.9775697209683</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

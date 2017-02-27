@@ -243,7 +243,7 @@ import arcpy
 from arcpy import env
 env.workspace = "C:/Data"
 tifflist = arcpy.ListRasters("", "TIF")
-for ff in tifflist:
+for tiff in tifflist:
     arcpy.BuildPyramids_management(tiff)
 ```
 
