@@ -2,8 +2,11 @@
 */info
 */toc
 */doc
+
 */*.pdf
 */*.docx
+
 */SF_PFA2
 */SF_PSAG
 */SF_Exercise
+*/SF_ArcpyBook

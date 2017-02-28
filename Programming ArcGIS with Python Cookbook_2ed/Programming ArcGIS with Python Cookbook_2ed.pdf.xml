@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Cover" Page="1" Open="0" />
+  <Item ID="2" Name="Copyright" Page="3" Open="0" />
+  <Item ID="3" Name="Credits" Page="4" Open="0" />
+  <Item ID="4" Name="About the Author" Page="5" Open="0" />
+  <Item ID="5" Name="About the Reviewers" Page="6" Open="0" />
+  <Item ID="6" Name="www.PacktPub.com" Page="9" Open="0" />
+  <Item ID="7" Name="Table of Contents" Page="10" Open="0" />
+  <Item ID="8" Name="Preface" Page="14" Open="0" />
+  <Item ID="9" Name="Chapter 1: Fundamentals of the Python Language &#xA;for ArcGIS" Page="22" Open="0">
+    <Item ID="10" Name="Using IDLE for Python script development" Page="23" Open="0" />
+    <Item ID="11" Name="Using the ArcGIS Python window" Page="27" Open="0" />
+    <Item ID="12" Name="Python language fundamentals" Page="30" Open="0" />
+    <Item ID="13" Name="Summary" Page="50" Open="0" />
+  </Item>
+  <Item ID="14" Name="Chapter 2: Managing Map Documents and Layers" Page="52" Open="0">
+    <Item ID="15" Name="Introduction" Page="52" Open="0" />
+    <Item ID="16" Name="Referencing the current map document" Page="53" Open="0" />
+    <Item ID="17" Name="Referencing map documents on a disk" Page="55" Open="0" />
+    <Item ID="18" Name="Getting a list of layers in a map document" Page="56" Open="0" />
+    <Item ID="19" Name="Restricting the list of layers" Page="58" Open="0" />
+    <Item ID="20" Name="Zooming in to selected features" Page="60" Open="0" />
+    <Item ID="21" Name="Changing the map extent" Page="63" Open="0" />
+    <Item ID="22" Name="Adding layers to a map document" Page="65" Open="0" />
+    <Item ID="23" Name="Inserting layers into a map document" Page="67" Open="0" />
+    <Item ID="24" Name="Updating layer symbology" Page="70" Open="0" />
+    <Item ID="25" Name="Updating layer properties" Page="73" Open="0" />
+    <Item ID="26" Name="Working with time-enabled layers in &#xA;a data frame" Page="78" Open="0" />
+  </Item>
+  <Item ID="27" Name="Chapter 3: Finding and Fixing Broken Data Links" Page="86" Open="0">
+    <Item ID="28" Name="Introduction" Page="86" Open="0" />
+    <Item ID="29" Name="Finding broken data sources in your map document and layer files" Page="87" Open="0" />
+    <Item ID="30" Name="Fixing broken data sources with MapDocument." Page="90" Open="0" />
+    <Item ID="31" Name="findAndReplaceWorkspacePaths()" Page="90" Open="0" />
+    <Item ID="32" Name="Fixing broken data sources with MapDocument.replaceWorkspaces()" Page="92" Open="0" />
+    <Item ID="33" Name="Fixing individual layer and table objects with replaceDataSource()" Page="96" Open="0" />
+    <Item ID="34" Name="Finding broken data sources in all map documents in a folder" Page="100" Open="0" />
+  </Item>
+  <Item ID="35" Name="Chapter 4: Automating Map Production and Printing" Page="104" Open="0">
+    <Item ID="36" Name="Introduction" Page="104" Open="0" />
+    <Item ID="37" Name="Creating a list of layout elements" Page="105" Open="0" />
+    <Item ID="38" Name="Assigning a unique name to layout elements" Page="107" Open="0" />
+    <Item ID="39" Name="Restricting the layout elements returned by ListLayoutElements()" Page="111" Open="0" />
+    <Item ID="40" Name="Updating the properties of layout elements" Page="112" Open="0" />
+    <Item ID="41" Name="Getting a list of available printers" Page="115" Open="0" />
+    <Item ID="42" Name="Printing maps with PrintMap()" Page="116" Open="0" />
+    <Item ID="43" Name="Exporting a map to a PDF file" Page="117" Open="0" />
+    <Item ID="44" Name="Exporting a map to an image file" Page="119" Open="0" />
+    <Item ID="45" Name="Exporting a report" Page="121" Open="0" />
+    <Item ID="46" Name="Building a map book with Data Driven Pages and ArcPy mapping" Page="125" Open="0" />
+    <Item ID="47" Name="Publishing a map document to an ArcGIS Server service" Page="130" Open="0" />
+  </Item>
+  <Item ID="48" Name="Chapter 5: Executing Geoprocessing &#xA;Tools from Scripts" Page="138" Open="0">
+    <Item ID="49" Name="Introduction" Page="138" Open="0" />
+    <Item ID="50" Name="Finding geoprocessing tools" Page="139" Open="0" />
+    <Item ID="51" Name="Retrieving a toolbox alias" Page="143" Open="0" />
+    <Item ID="52" Name="Executing geoprocessing tools from a script" Page="146" Open="0" />
+    <Item ID="53" Name="Using the output of a tool as an input to another tool" Page="149" Open="0" />
+  </Item>
+  <Item ID="54" Name="Chapter 6: Creating Custom Geoprocessing Tools" Page="152" Open="0">
+    <Item ID="55" Name="Introduction" Page="152" Open="0" />
+    <Item ID="56" Name="Creating a custom geoprocessing tool" Page="152" Open="0" />
+    <Item ID="57" Name="Creating a Python toolbox" Page="170" Open="0" />
+  </Item>
+  <Item ID="58" Name="Chapter 7: Querying and &#xA;Selecting Data" Page="182" Open="0">
+    <Item ID="59" Name="Introduction" Page="182" Open="0" />
+    <Item ID="60" Name="Constructing a proper attribute query syntax" Page="183" Open="0" />
+    <Item ID="61" Name="Creating feature layers and table views" Page="188" Open="0" />
+    <Item ID="62" Name="Selecting features and rows with the Select Layer by Attribute tool" Page="192" Open="0" />
+    <Item ID="63" Name="Selecting features with the Select by Location tool" Page="196" Open="0" />
+    <Item ID="64" Name="Combining a spatial and attribute query with the Select by Location tool" Page="199" Open="0" />
+  </Item>
+  <Item ID="65" Name="Chapter 8: Using the ArcPy Data Access Module with Feature Classes &#xA;and Tables" Page="202" Open="0">
+    <Item ID="66" Name="Introduction" Page="203" Open="0" />
+    <Item ID="67" Name="Retrieving features from a feature class with  SearchCursor" Page="205" Open="0" />
+    <Item ID="68" Name="Filtering records with a where clause" Page="208" Open="0" />
+    <Item ID="69" Name="Improving cursor performance with geometry tokens" Page="209" Open="0" />
+    <Item ID="70" Name="Inserting rows with InsertCursor" Page="213" Open="0" />
+    <Item ID="71" Name="Updating rows with UpdateCursor" Page="218" Open="0" />
+    <Item ID="72" Name="Deleting rows with UpdateCursor" Page="222" Open="0" />
+    <Item ID="73" Name="Inserting and updating rows inside an &#xA;edit session" Page="224" Open="0" />
+    <Item ID="74" Name="Reading geometry from a feature class" Page="228" Open="0" />
+    <Item ID="75" Name="Using Walk() to navigate directories" Page="230" Open="0" />
+  </Item>
+  <Item ID="76" Name="Chapter 9: Listing and Describing GIS Data" Page="234" Open="0">
+    <Item ID="77" Name="Introduction" Page="234" Open="0" />
+    <Item ID="78" Name="Working with the ArcPy list functions" Page="235" Open="0" />
+    <Item ID="79" Name="Getting a list of fields in a feature class &#xA;or table" Page="238" Open="0" />
+    <Item ID="80" Name="Using the Describe() function to return descriptive information about a feature class" Page="240" Open="0" />
+    <Item ID="81" Name="Using the Describe() function to return descriptive information about a raster image" Page="244" Open="0" />
+  </Item>
+  <Item ID="82" Name="Chapter 10: Customizing the ArcGIS Interface with Add-ins" Page="246" Open="0">
+    <Item ID="83" Name="Introduction" Page="246" Open="0" />
+    <Item ID="84" Name="Downloading and installing the Python &#xA;Add-in Wizard" Page="247" Open="0" />
+    <Item ID="85" Name="Creating a button add-in and using the Python add-ins module" Page="250" Open="0" />
+    <Item ID="86" Name="Installing and testing an add-in" Page="260" Open="0" />
+    <Item ID="87" Name="Creating a tool add-in" Page="266" Open="0" />
+  </Item>
+  <Item ID="88" Name="Chapter 11: Error Handling and Troubleshooting" Page="272" Open="0">
+    <Item ID="89" Name="Introduction" Page="272" Open="0" />
+    <Item ID="90" Name="Exploring the default Python error message" Page="273" Open="0" />
+    <Item ID="91" Name="Adding Python exception handling structures (try/except/else)" Page="274" Open="0" />
+    <Item ID="92" Name="Retrieving tool messages with GetMessages()" Page="276" Open="0" />
+    <Item ID="93" Name="Filtering tool messages by the level of severity" Page="278" Open="0" />
+    <Item ID="94" Name="Testing for and responding to specific error messages" Page="279" Open="0" />
+  </Item>
+  <Item ID="95" Name="Chapter 12: Using Python for Advanced ArcGIS" Page="282" Open="0">
+    <Item ID="96" Name="Introduction" Page="282" Open="0" />
+    <Item ID="97" Name="Getting started with the ArcGIS REST API" Page="283" Open="0" />
+    <Item ID="98" Name="Making HTTP requests and parsing the response with Python" Page="289" Open="0" />
+    <Item ID="99" Name="Getting layer information with the ArcGIS REST API and Python" Page="292" Open="0" />
+    <Item ID="100" Name="Exporting a map with the ArcGIS REST API and Python" Page="295" Open="0" />
+    <Item ID="101" Name="Querying a map service with the ArcGIS REST API and Python" Page="299" Open="0" />
+    <Item ID="102" Name="Geocoding with the Esri World Geocoding Service" Page="303" Open="0" />
+    <Item ID="103" Name="Using FieldMap and FieldMappings" Page="305" Open="0" />
+    <Item ID="104" Name="Using a ValueTable to provide multivalue input to a tool" Page="312" Open="0" />
+  </Item>
+  <Item ID="105" Name="Chapter 13: Using Python with ArcGIS Pro" Page="314" Open="0">
+    <Item ID="106" Name="Introduction" Page="314" Open="0" />
+    <Item ID="107" Name="Using the new Python window in ArcGIS Pro" Page="315" Open="0" />
+    <Item ID="108" Name="Coding differences between ArcGIS for Desktop and ArcGIS Pro" Page="319" Open="0" />
+    <Item ID="109" Name="Installing Python for ArcGIS Pro" Page="319" Open="0" />
+    <Item ID="110" Name="Converting ArcGIS for Desktop Python code to ArcGIS Pro" Page="319" Open="0" />
+  </Item>
+  <Item ID="111" Name="Appendix A: Automating &#xA;Python Scripts" Page="322" Open="0">
+    <Item ID="112" Name="Introduction" Page="322" Open="0" />
+    <Item ID="113" Name="Running Python scripts from the &#xA;command line" Page="323" Open="0" />
+    <Item ID="114" Name="Using sys.argv[ ] to capture command-line input" Page="329" Open="0" />
+    <Item ID="115" Name="Adding Python scripts to batch files" Page="331" Open="0" />
+    <Item ID="116" Name="Scheduling batch files to run at prescribed times" Page="332" Open="0" />
+  </Item>
+  <Item ID="117" Name="Appendix B: Five Python Recipes Every GIS Programmer Should Know" Page="340" Open="0">
+    <Item ID="118" Name="Introduction" Page="340" Open="0" />
+    <Item ID="119" Name="Reading data from a delimited text file" Page="341" Open="0" />
+    <Item ID="120" Name="Sending e-mails" Page="344" Open="0" />
+    <Item ID="121" Name="Retrieving files from an FTP server" Page="348" Open="0" />
+    <Item ID="122" Name="Creating ZIP files" Page="352" Open="0" />
+    <Item ID="123" Name="Reading XML files" Page="355" Open="0" />
+  </Item>
+  <Item ID="124" Name="Index" Page="358" Open="0" />
+</BookmarkExport>
