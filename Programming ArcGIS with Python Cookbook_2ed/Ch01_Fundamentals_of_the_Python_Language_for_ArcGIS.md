@@ -226,13 +226,8 @@ outfile.writelines(fcList)
 
 ## 1.4 Summary
 
-In this chapter, we covered some of the fundamental Python programming concepts that you'll need to understand before you can write effective geoprocessing scripts.
-We began the chapter with an overview of the IDLE development environment to write and debug Python scripts.
-You learned how to create a new script, edit existing scripts, check for syntax errors, and execute scripts.
-We also covered the basic language constructs, including importing modules, creating and assigning variables, if/else statements, looping statements, and the various data-types including strings, numbers, Booleans, lists, dictionaries, and objects.
-You also learned how to read and write text files.
-
-
-```python
-
-```
+In this chapter, we covered some of the fundamental Python programming concepts that you'll need to understand before you can write effective geoprocessing scripts.  
+We began the chapter with an overview of the IDLE development environment to write and debug Python scripts.  
+You learned how to create a new script, edit existing scripts, check for syntax errors, and execute scripts.  
+We also covered the basic language constructs, including importing modules, creating and assigning variables, if/else statements, looping statements, and the various data-types including strings, numbers, Booleans, lists, dictionaries, and objects.  
+You also learned how to read and write text files.  
