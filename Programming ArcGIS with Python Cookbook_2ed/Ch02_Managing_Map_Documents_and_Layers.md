@@ -421,7 +421,7 @@ The ListLayers()  function returned a Python list and since we knew that we only
 Finally, we set the extent of the data frame using layer.getSelectedExtent.  
   
   
-### 2.7 Changing the map extent  
+## 2.7 Changing the map extent  
   
 There will be many occasions when you will need to change the map extent.  
 This is frequently the case when you are automating the map production process and need to create many maps of different areas or features.  
