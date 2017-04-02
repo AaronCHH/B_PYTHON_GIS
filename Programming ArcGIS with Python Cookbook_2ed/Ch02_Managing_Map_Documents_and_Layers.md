@@ -423,17 +423,17 @@ Finally, we set the extent of the data frame using layer.getSelectedExtent.
 
 ## 2.7 Changing the map extent
 
-There will be many occasions when you will need to change the map extent.  
-This is frequently the case when you are automating the map production process and need to create many maps of different areas or features.  
-There are a number of ways that the map extent can be changed with arcpy.  
-However, for this recipe, we'll concentrate on using a defiition expression to change the extent.  
+There will be many occasions when you will need to change the map extent.
+This is frequently the case when you are automating the map production process and need to create many maps of different areas or features.
+There are a number of ways that the map extent can be changed with arcpy.
+However, for this recipe, we'll concentrate on using a defiition expression to change the extent.
 
 
 ### 2.7.1 Getting ready
 
-The DataFrame class has an extent property that you can use to set the geographic extent.  
-This is often used in conjunction with the Layer.definitionQuery property that is used to defie a defiition query for a layer.  
-In this recipe, you will learn how to use these objects and properties to change the map extent.  
+The DataFrame class has an extent property that you can use to set the geographic extent.
+This is often used in conjunction with the Layer.definitionQuery property that is used to defie a defiition query for a layer.
+In this recipe, you will learn how to use these objects and properties to change the map extent.
 
 
 ### 2.7.2 How to do it
